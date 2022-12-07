@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hydrologic processes | Ammara Talib</title>
+    <link>/tag/hydrologic-processes/</link>
+      <atom:link href="/tag/hydrologic-processes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hydrologic processes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Hydrologic processes</title>
+      <link>/tag/hydrologic-processes/</link>
+    </image>
+    
+    <item>
+      <title>Climate change and land use impacts on hydrologic processes of watershed systems</title>
+      <link>/publication/climate-change-and-land-use-impacts-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/climate-change-and-land-use-impacts-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate Change Impacts on Water Quantity and Quality in Watershed Systems</title>
+      <link>/conferences/climate-change-impacts-ucowr-niwr-cuahsi-18june2014/</link>
+      <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/conferences/climate-change-impacts-ucowr-niwr-cuahsi-18june2014/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;UCOWR-NIWR-CUAHSI Conference, Water Systems, Science, and Society Under Global Change 2014&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: Climate change significantly influences watershed hydrologic processes. These changes influence the rate of interception; evapotranspiration (ET), infiltration, and runoff have impact on soil loss and nutrient loads into water bodies. Therefore, assessment of these influences on watershed system to develop comprehensive conservation policies is needed. This study aims to model the impacts using climate change on water quantity and water quality. The research is conducted in Sudbury, Assabet and Concord (SuAsCo) watershed of Massachusetts that is predicted to experience these impacts resulting in runoff issues and water quality impacts, especially increase in sediment and nutrients loading. A watershed simulation model (HSPF) is used to simulate watershed processes. The model is calibrated and validated by using field data from MassDEP. Nash-Sutcliffe equation is used to assess the efficiency of the model. A downscaled prediction of global climate models (GCMs) is used to assess climate change. Results indicate that changes in climate can significantly affect storm water flows and impact water quality both individually and in combination. There is a potential for reducing impacts of runoff, sediments and nutrients loads by using watershed conservation strategies. Climate adaptation strategies could involve implementation of low impact development practices and spatially targeted mitigation measures. Results provide valuable information to watershed managers and landowners for adaptation to climate change impacts.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

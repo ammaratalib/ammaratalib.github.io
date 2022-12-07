@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recurrent Neural network | Ammara Talib</title>
+    <link>/tag/recurrent-neural-network/</link>
+      <atom:link href="/tag/recurrent-neural-network/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recurrent Neural network</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recurrent Neural network</title>
+      <link>/tag/recurrent-neural-network/</link>
+    </image>
+    
+    <item>
+      <title>Spatial and temporal Characterization of Forecasting GW Anomalies in Wisconsin Central Sands (WCS)</title>
+      <link>/research/gw_anamoly/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/research/gw_anamoly/</guid>
+      <description>&lt;p&gt;Wisconsin is humid, though GW shortages have been reported in several regions, including the Wisconsin Central Sands (WCS). The shortage of GW in the WCS is caused by many factors, including climate variability, fast expansion of irrigation, increasing high-capacity wells, and increasing population. For sustainable
+water resource management, there is an urgent need to develop a computationally-efficient and easy-to-update  framework with the capability of efficient incorporation of recently developed and regularly updated environmental datasets (e.g., remote sensing maps of evapotranspiration and soil
+moisture).&lt;/p&gt;
+&lt;p&gt;The research questions for this project include: Using computationally efficient ML models, can easy-to-obtain remote sensing derived environmental datasets be combined to accurately predict GW dynamics across the WCS? How does GW anomaly vary in space and across the WCS? How pumping and crop type change can influence this anomaly forecasting?&lt;/p&gt;
+&lt;p&gt;Static and dynamic variables were used to build LSTM model for
+prediction of GW depth at the 26 well locations in the WCS region monthly from 1958 to 2020.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture1&#34; srcset=&#34;
+               /research/gw_anamoly/picture1_hu2b9ed31cc1fb0586578751dbd36637f9_2534105_d0d85320862cd2146b85bbdee74be3ca.webp 400w,
+               /research/gw_anamoly/picture1_hu2b9ed31cc1fb0586578751dbd36637f9_2534105_24843aafb53efc650d68434f46352a94.webp 760w,
+               /research/gw_anamoly/picture1_hu2b9ed31cc1fb0586578751dbd36637f9_2534105_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/research/gw_anamoly/picture1_hu2b9ed31cc1fb0586578751dbd36637f9_2534105_d0d85320862cd2146b85bbdee74be3ca.webp&#34;
+               width=&#34;645&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Based on the findings, overall palmer drought severity index (PDSI) and soil moisture has high correlation with GW elevation. Other Important predictor include previous 5-month Tmax and solar radiations.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture12&#34; srcset=&#34;
+               /research/gw_anamoly/Picture12_hu339601629dec0b946f96c6b859355ad4_1096633_3f3258eb4fc38912cb05dd5c151b36c7.webp 400w,
+               /research/gw_anamoly/Picture12_hu339601629dec0b946f96c6b859355ad4_1096633_a4260c759e73a28ec70ef35cbd2cfd0e.webp 760w,
+               /research/gw_anamoly/Picture12_hu339601629dec0b946f96c6b859355ad4_1096633_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/research/gw_anamoly/Picture12_hu339601629dec0b946f96c6b859355ad4_1096633_3f3258eb4fc38912cb05dd5c151b36c7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;324&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Two-month GW anomaly forecast temporal model can explain variance 90% in Northern region. Model MAE is higher when previous month GWE has lower autocorrelation.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture13&#34; srcset=&#34;
+               /research/gw_anamoly/Picture13_hu474af4d165dbd4bf657546a901379507_451363_bc38fe20739e8a92bd0c0e8a5eef7613.webp 400w,
+               /research/gw_anamoly/Picture13_hu474af4d165dbd4bf657546a901379507_451363_364793182f2844cf12929578eebf1b98.webp 760w,
+               /research/gw_anamoly/Picture13_hu474af4d165dbd4bf657546a901379507_451363_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/research/gw_anamoly/Picture13_hu474af4d165dbd4bf657546a901379507_451363_bc38fe20739e8a92bd0c0e8a5eef7613.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;236&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In our observations, negative anomaly means shallow GW, so pumping has greater influence on shallow GW. Hence model can better estimate anomaly for shallower water (Figure 6). Pumping makes GW deeper so the anomaly becomes positive.
+I hope to submit my manuscript for this research project by January 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Field-scale mapping and forecasting of water budgets in intensively irrigated agricultural regions through an advanced ensemble modeling framework</title>
+      <link>/conferences/field-scale-mapping-and-forecasting-of-water-budgets_2019/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/conferences/field-scale-mapping-and-forecasting-of-water-budgets_2019/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2019&lt;/em&gt;, H23C-02&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: In our ability to sustain food production, it is important to know how much water our crops need. Current drought forecasts cover large regions and are not specific to individual farms. Here, we seek to improve forecasting of how crops drought stress changes over time during different stages of growth through advanced mapping and modeling of evapotranspiration (ET) with NASA space borne sensors. We developed an algorithm that can accurately predict and forecast farm-scale regional daily out to 3 days. We use these forecasts to determine what varieties of a crops use less water or what varieties are best performing under water stress conditions. We hypothesized that thermal products from Moderate Resolution Imaging Spectroradiometer (MODIS) and meteorological information provide the resolution and temporal repeat frequency necessary to develop ET products. These goals were accomplished by forecasting water demand (ET loss) by crops with help of ensemble machine learning algorithms with use of meteorological data, MODIS products and ground observation from flux towers. From these products, we developed, calibrated and evaluated a new crop ET product against field measurements of ET from a network of crop eddy covariance flux towers in Midwest USA. These towers are currently operating in irrigated and rain fed field corn, soybean, wheat, clover and potato farms under a range of water management strategies. Daily ET forecast (3 days) model based on random forest (RF) has R2 and RMSE of 0.72 mm and 0.76mm respectively while recurrent neural network (RNN) ensemble forecast model was able to forecast 3 days ET with R2 and RMSE of 0.71 mm and 0.78 mm respectively. New field-scale ET maps can provide deep insights into how farmers could use limited water resources efficiently to maintain productivity, while sustaining surface water resources in the face of climate change.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

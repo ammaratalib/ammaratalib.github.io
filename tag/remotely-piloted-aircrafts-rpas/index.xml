@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remotely piloted aircrafts (RPAs) | Ammara Talib</title>
+    <link>/tag/remotely-piloted-aircrafts-rpas/</link>
+      <atom:link href="/tag/remotely-piloted-aircrafts-rpas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Remotely piloted aircrafts (RPAs)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Remotely piloted aircrafts (RPAs)</title>
+      <link>/tag/remotely-piloted-aircrafts-rpas/</link>
+    </image>
+    
+    <item>
+      <title>Using remotely piloted aircrafts to evaluate potato water stress in Central Wisconsin</title>
+      <link>/conferences/using-remotely-piloted-aircrafts-to-evaluate-water-stress-2019/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/conferences/using-remotely-piloted-aircrafts-to-evaluate-water-stress-2019/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2019,&lt;/em&gt; H34H-11&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: Groundwater depletion in Central Wisconsin, due in part to agricultural high-capacity wells, has sparked an interest in precision irrigation to reduce groundwater pumping without a significant reduction in yield. A key challenge for bridging precision irrigation research and application is how best to monitor water stress in real-time. Aerial and satellite imagery are potential solutions. Drawbacks of these methods include cost, spatiotemporal resolution, and cloud interference, especially in humid regions. Recent advancements in remotely piloted aircrafts (RPAs) have made frequent, low-flying imagery collection more economical and feasible than ever before. We partnered with the Wisconsin Potato and Vegetable Grower Association to generate high-resolution maps of crop water stress using remotely sensed thermal and multi-spectral RPA imagery. Data were collected at a commercially irrigated potato field in the Central Sands region of Wisconsin from June to August 2019. Missions were flown weekly using a quadcopter RPA system instrumented with a newly released, combined multispectral/thermal camera developed for agricultural applications. Each mission included flights at 30, 60, and 90 m above ground level to assess tradeoffs between resolution, area, and flight time. We used biophysical data from an eddy covariance system installed within the flight domain to validate crop water stress maps generated from the remotely sensed RPA data. Ground measurements of surface temperature and soil moisture were collected throughout the domain within fifteen minutes of each mission. Ongoing results will be used to develop best practices for integrating RPAs into precision irrigation programs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

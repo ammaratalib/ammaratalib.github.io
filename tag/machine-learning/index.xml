@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine learning | Ammara Talib</title>
+    <link>/tag/machine-learning/</link>
+      <atom:link href="/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine learning</title>
+      <link>/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of prediction and forecasting models for evapotranspiration of agricultural lands in the Midwest US</title>
+      <link>/publication/evaluation-of-forecasting-models-2021/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/evaluation-of-forecasting-models-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning data-driven network to estimate and forecast evapotranspiration (ET)</title>
+      <link>/research/rnn_et/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/research/rnn_et/</guid>
+      <description>&lt;p&gt;The potentials of random forest (RF) and long short-term memory (LSTM) neural networks to estimate and forecast daily ET for corn, soybeans, and potatoes in diverse agricultural farms was evaluated in this research. The proposed modeling architecture provides a field-scale, locally calibrated tool for accurate prediction and short-term forecasting of daily ET in areas lacking in situ ET, metrological, and biophysical data. Furthermore, since there is no clear understanding of minimum required predictors for accurate estimates of ET, our models with different sets of predictors can help to understand the need for essential or minimum drivers for different crop fields on various soil textures in areas with scarce data.&lt;/p&gt;
+&lt;p&gt;The goals of this research include, how well can empirical ML models predict and forecast ET 3 days in advance in irrigated and rain-fed agricultural lands across the Midwest US? And What are important drivers for predicting and forecasting ET 3 days in advance in irrigated and non-irrigated areas?&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Picture1&#34; srcset=&#34;
+               /research/rnn_et/picture1_hu6a031b2fd2c8ab9da733dfc27eba5283_473989_e0e1ae2a7ab58101140346428eb77009.webp 400w,
+               /research/rnn_et/picture1_hu6a031b2fd2c8ab9da733dfc27eba5283_473989_21bae816ccd15bbef3b94893a528a1c3.webp 760w,
+               /research/rnn_et/picture1_hu6a031b2fd2c8ab9da733dfc27eba5283_473989_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/research/rnn_et/picture1_hu6a031b2fd2c8ab9da733dfc27eba5283_473989_e0e1ae2a7ab58101140346428eb77009.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;659&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Prediction and forecasting models for ET based on RF and LSTM framework with 5, 11, and 16 predictors was proposed. For all model experiments, simulations were based on daily time step from 2003-2019. The selection of sixteen model input predictors for RF_16 and LSTM_16 model was due to their influence on ET and their availability for agricultural sites. After calibration and validation, empirical models of RF and LSTM were benchmarked against output from process-based model ET from the North American Land Data Assimilation System (NLDAS) version 2 LSM model.&lt;/p&gt;
+&lt;p&gt;The performance of the two ET prediction algorithms for the test data, which demonstrated the ability of the calibrated models to generalize to unseen ET observations (test data) from eddy covariance flux towers across multiple crop types. The evaluation statistics indicated that there is a good agreement between the predicted and observed ET values across corn, soybeans, and potatoes.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Picture2&#34; srcset=&#34;
+               /research/rnn_et/Picture2_huc94ea1dc897fd1ba71798d8eee8ed391_405074_d1d4a40e5230b2fae3415c23c92b64c4.webp 400w,
+               /research/rnn_et/Picture2_huc94ea1dc897fd1ba71798d8eee8ed391_405074_e4c45f10ea29383bf82fc160b646d819.webp 760w,
+               /research/rnn_et/Picture2_huc94ea1dc897fd1ba71798d8eee8ed391_405074_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/research/rnn_et/Picture2_huc94ea1dc897fd1ba71798d8eee8ed391_405074_d1d4a40e5230b2fae3415c23c92b64c4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;299&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Our analysis for RF model showed that VP and crop coefficients were the most important predictors for irrigated crops, while short wave radiation and enhanced vegetation index were key predictors for non-irrigated crops.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Picture3&#34; srcset=&#34;
+               /research/rnn_et/Picture3_hu9a1ad4484dc4df946705862b2dda2a55_497874_0237e58c292ab3a5fdb194ff3ca9901f.webp 400w,
+               /research/rnn_et/Picture3_hu9a1ad4484dc4df946705862b2dda2a55_497874_a7ab3574973e935283c3c242b31de22a.webp 760w,
+               /research/rnn_et/Picture3_hu9a1ad4484dc4df946705862b2dda2a55_497874_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/research/rnn_et/Picture3_hu9a1ad4484dc4df946705862b2dda2a55_497874_0237e58c292ab3a5fdb194ff3ca9901f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;439&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;A multistep forecast model that can forecast ET three days ahead of time using RF and LSTM models was developed. Finally, the importance of model predictors was calculated for both prediction and forecast model versions of RF.&lt;/p&gt;
+&lt;p&gt;A &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0022169421006260&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;research paper&lt;/a&gt; detailing the findings of this research has been accepted in the Journal of Hydrology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving irrigation planning and early prediction for agricultural drought in Wisconsin</title>
+      <link>/conferences/improving-irrigation-planning-and-early-prediction-2020/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/conferences/improving-irrigation-planning-and-early-prediction-2020/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2020,&lt;/em&gt; H165-000&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: In our ability to sustain food production, it is important to know how much water our crops use. The risks of climate extremes such as heat waves and droughts are increasing and have already threatened the North American agricultural system in the form of increased drought duration, intensity, and reduced crop yield. Current drought prediction models cover large regions and are not specific to individual farms. The goal of this study is 1) Forecast field-scale short-term evapotranspiration (ET) for different crops in the U.S. Midwest and 2) improve a commonly used satellite-driven regional crop evapotranspiration model (WISP). The first goal is achieved by building a prediction and forecasting empirical model based on machine learning. We compare two approaches, neural networks with Long short-term memory (LSTM) and random forest (RF) applied to nineteen crop sites in a range of crop types, soils, and irrigation usage that have continuous ET measurements made by eddy covariance. In general, performance of RF exceeded LSTM in most cases and forecasts were found to be reliable out to three days. Unlike rainfed crops, we found irrigated crops ET prediction requires including additional information related to physical properties of sites (soil types, crop coefficient, cumulative growing degree days). For the second goal, we evaluated ET predictions from WISP against some of these towers. Overestimation of ET in WISP arises from faulty parameterization of longwave radiation clear-sky emissivity. We applied an inverse approach to estimate corrected clear sky emissivity parameters. ET calculated based on corrected parameters reduced most of the model’s ET bias and lowered RMSE. New field-scale actual ET measurements provide critical insights to improve ET models and hence, enhance drought monitoring and forecasting necessary to be able to use limited water resources efficiently to maintain productivity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What have we learned from continuous crop and forest evapotranspiration observations in the Central Sands?</title>
+      <link>/conferences/what-have-we-learned-wpvgafeb2020/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/conferences/what-have-we-learned-wpvgafeb2020/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;UW Extension &amp;amp; Wisconsin Potato &amp;amp; Vegetable Growers Association (WPVGA) Grower Conference 2019&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Ways to measure ET:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Meteorological approximations: Thornthwaite, Priestly-Taylor, Penman-Montieth – Strong assumptions on surface properties, ET driven by radiation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Residual: Measure precipitation, soil moisture, runoff, back out ET – Subject to high uncertainty Lysimeters: Labor-intensive, small-area estimate&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Remote sensing:  Assumptions on links between electromagnetic radiation and ET, satellites don’t work with clouds&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Process models: Captures all aspects but requires extensive, hard to measure parameters&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eddy covariance: Direct method, whole field, expensive and expertise required&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Machine “Learning”: Site-specific, hard to extrapolate or interpret, but powerful for forecasting&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficacy of Machine Learning Algorithms for Identifying Hotspots of Groundwater Depletion in Intensively Irrigated Agricultural Regions</title>
+      <link>/conferences/efficacy-of-machine-learning-algorithms-2018/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/conferences/efficacy-of-machine-learning-algorithms-2018/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2018,&lt;/em&gt; H21J-1787&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: The Central Sands region of Wisconsin is one of the most agriculturally productive regions of the United States because of supplemental irrigation with groundwater. About 2,290 high capacity groundwater (GW) wells in shallow sandy and gravel aquifer are being used to irrigate potatoes, sweet corn, peas and bean. These high capacity wells withdraw and pump about 100,000 gallons of water per day and are also draining streams and lakes. Changes in precipitation and temperature has also increased the length of growing season in WCS. Improved understanding of groundwater level response to climate patterns and pumping is essential for sustainable planning and management, particularly in the context of increasing groundwater demands in agriculture. As an alternative to complex and computationally expensive physical models, here we evaluate the reliability of a machine learning based GW model using environmental drivers to GW fluctuation. The objectives were to: 1) develop a new ensemble modeling framework based on artificial neural network nonlinear autoregressive networks to predict spatio-temporal fluctuations of groundwater in WCS, and 2) determine the relative influence of climate variability, evapotranspiration (ET) and crop irrigation demand on GW level change. Precipitation and temperature, streamflow and other climatic indices were chosen as predictors, which make the selected approach easily transferable, since that data is widely available and simple to measure. We trained our model with input data in WCS from 2012-2015 and tested for 2016-2017. Our results show that at least for WCS, our modeling framework can serve as an alternative approach to simulating groundwater level change and water availability, especially in regions where subsurface properties are unknown. An easy to use and rapidly run model also benefits farmers who can identify areas where GW is depleting and thus avoid those regions or grow either non- irrigating crops or crops that recharge GW.Understanding the nonlinear relationship between climate, GW pumping and surface water is also crucial for scientist and conservation professionals, to help protect areas with potential for highest GW depletion. A future application of this work will be to predict crop yield by identifying the important drivers that affect GW level.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

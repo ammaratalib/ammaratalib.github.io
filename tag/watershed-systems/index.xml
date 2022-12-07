@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Watershed systems | Ammara Talib</title>
+    <link>/tag/watershed-systems/</link>
+      <atom:link href="/tag/watershed-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Watershed systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Watershed systems</title>
+      <link>/tag/watershed-systems/</link>
+    </image>
+    
+    <item>
+      <title>Managing emerging contaminants in watersheds, Need for comprehensive, systems-based strategies</title>
+      <link>/publication/managing-emerging-contaminants-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/managing-emerging-contaminants-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate change and land use impacts on hydrologic processes of watershed systems</title>
+      <link>/publication/climate-change-and-land-use-impacts-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/climate-change-and-land-use-impacts-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

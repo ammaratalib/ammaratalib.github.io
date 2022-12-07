@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Ammara Talib</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Drivers of decadal carbon fluxes across temperate ecosystems</title>
+      <link>/publication/drivers_of_decadal_carbon-2022/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/drivers_of_decadal_carbon-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How High to Fly? Mapping Evapotranspiration from Remotely Piloted Aircrafts at Different Elevations</title>
+      <link>/publication/how-high-to-fly-mapping-et-2022/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/how-high-to-fly-mapping-et-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actual evapotranspiration and crop coefficients for tropical lowland rice (Oryza sativa L.) in eastern India</title>
+      <link>/publication/crop-coefficients-for-lowland-rice-2021/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/crop-coefficients-for-lowland-rice-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of prediction and forecasting models for evapotranspiration of agricultural lands in the Midwest US</title>
+      <link>/publication/evaluation-of-forecasting-models-2021/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/evaluation-of-forecasting-models-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ways to Measure Evapotranspiration</title>
+      <link>/publication/featured_2019/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/featured_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Evapotranspiration on an irrigated potato field and pine plantation</title>
+      <link>/publication/featured_2018/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/featured_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing emerging contaminants in watersheds, Need for comprehensive, systems-based strategies</title>
+      <link>/publication/managing-emerging-contaminants-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/managing-emerging-contaminants-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate change and land use impacts on hydrologic processes of watershed systems</title>
+      <link>/publication/climate-change-and-land-use-impacts-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/climate-change-and-land-use-impacts-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It is Not Too Late to Conserve Water Resources in Rapidly Urbanizing Areas of Eastern Massachusetts</title>
+      <link>/publication/featured_2017/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/featured_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing Emerging Contaminants- Status, Impacts, and Watershed-Wide Strategies</title>
+      <link>/publication/ec-status-impacts-and-watershed-wide-strategies-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ec-status-impacts-and-watershed-wide-strategies-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

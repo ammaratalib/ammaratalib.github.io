@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leaf area index | Ammara Talib</title>
+    <link>/tag/leaf-area-index/</link>
+      <atom:link href="/tag/leaf-area-index/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leaf area index</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Leaf area index</title>
+      <link>/tag/leaf-area-index/</link>
+    </image>
+    
+    <item>
+      <title>How High to Fly? Mapping Evapotranspiration from Remotely Piloted Aircrafts at Different Elevations</title>
+      <link>/publication/how-high-to-fly-mapping-et-2022/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/how-high-to-fly-mapping-et-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

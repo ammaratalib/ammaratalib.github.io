@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Direct measurement | Ammara Talib</title>
+    <link>/tag/direct-measurement/</link>
+      <atom:link href="/tag/direct-measurement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Direct measurement</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Direct measurement</title>
+      <link>/tag/direct-measurement/</link>
+    </image>
+    
+    <item>
+      <title>Water from ground to sky - New approaches to observing and predicting field to basin scale Evapotranspiration (ET) over crops and plantations</title>
+      <link>/conferences/from_ground_to_sky-wpvga-grower-conference-feb-6th-2018/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/conferences/from_ground_to_sky-wpvga-grower-conference-feb-6th-2018/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;UW Extension &amp;amp; Wisconsin Potato &amp;amp; Vegetable Growers Association (WPVGA) Grower Conference 2018&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;How reliable are fluxtowers?
+As long as sample area is homogenous and uptime is good, eddy covariance is the gold standard for field-regional ET&lt;/p&gt;
+&lt;p&gt;Flux towers have pros/cons:&lt;/p&gt;
+&lt;p&gt;PROS:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy to deploy on a tripod in a field, on solar power&lt;/li&gt;
+&lt;li&gt;No moving parts, and mostly off-the-shelf technology&lt;/li&gt;
+&lt;li&gt;Nearly 500 long running sites worldwide&lt;/li&gt;
+&lt;li&gt;“gold standard”. It is one of the only ways to directly measure ET at hourly time scale&lt;/li&gt;
+&lt;li&gt;At the same time, we also measure the surface heat exchange, carbon dioxide flux (productivity), and climate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CONS:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It is relatively expensive (total around $40-50K to purchase)&lt;/li&gt;
+&lt;li&gt;Requires significant expertise (technical personnel), and regular maintenance.&lt;/li&gt;
+&lt;li&gt;EC measures only upwind of the tower and when the atmosphere is “turbulent”, requiring application of methods to fill in data gaps and quality control data&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

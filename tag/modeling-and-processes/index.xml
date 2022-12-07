@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>modeling and processes | Ammara Talib</title>
+    <link>/tag/modeling-and-processes/</link>
+      <atom:link href="/tag/modeling-and-processes/index.xml" rel="self" type="application/rss+xml" />
+    <description>modeling and processes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>modeling and processes</title>
+      <link>/tag/modeling-and-processes/</link>
+    </image>
+    
+    <item>
+      <title>Pine to Potato Conversion Impacts to Groundwater Recharge in the Northern Great Lakes Region</title>
+      <link>/conferences/groundwater-recharge-in-the-northern-great-lakes-region-2018/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/conferences/groundwater-recharge-in-the-northern-great-lakes-region-2018/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2018,&lt;/em&gt; H11J-1598&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: Minnesota, Wisconsin, and Michigan are experiencing conversion from forests to irrigated potato and vegetable production in coarse soils overlying unconfined aquifers. Groundwater and surface water are strongly connected in these regions, where baseflow often exceeds 80% of streamflow. Watersheds that have already undergone heavy irrigated land use conversion (e.g., Wisconsin Central Sands) currently struggle with surface water loss and ecological degradation. Though it is well understood that forests provide regulatory ecosystem services such as groundwater recharge and nutrient filtration, the spatiotemporal changes to the hydrological budget associated with irrigated land use conversion across the northern Great Lakes states are unclear. Irrigation-induced depletion is a localized and episodic process in this humid region where precipitation exceeds potential evapotranspiration by 200-300 mm yr-1. Irrigated land use conversion may increase or decrease net annual groundwater recharge by 50 mm depending on the methodology (e.g., remote sensing vs. semi-empirical hydrological modeling) and spatial scale used to develop estimates. Policymakers and water managers require more information about how irrigated land use conversion changes the timing and magnitude of net groundwater recharge as well as the interannual variability associated with these changes.
+Our goal is to better understand historical and potential hydrological impacts of pine to potato conversion across the northern Great Lakes region. To this end, we developed and validated mid and late season potato plant functional types for the process-based AgroIBIS-VSF model using lysimetry, eddy covariance, phenological, and physiological data from several sites in Wisconsin and Minnesota. Using AgroIBIS-VSF, we examined how pine and mixed forest conversion to irrigated mid and late season potato agroecosystems altered monthly and annual groundwater recharge between 1979-2016. Preliminary results reveal significant interannual variability in groundwater recharge and potential tradeoffs between groundwater recharge and nutrient filtration ecosystem services. Results of this work will inform both top-down and bottom-up water management and conservation efforts at the farm, watershed, and statewide scales.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
