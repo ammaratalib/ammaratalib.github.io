@@ -25,6 +25,15 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
+    date_start: '2024-11-20'
+    description: ''
+    organization: International Conference on Sustainable Agriculture and Food Systems
+    #organization_url: https://www.coursera.org
+    title: Water Resource Women Research Award                                                                         
+    url: ''
+    
+  - certificate_url: ''
+    date_end: ''
     date_start: '2023-03-15'
     description: ''
     organization: FulMed.org
