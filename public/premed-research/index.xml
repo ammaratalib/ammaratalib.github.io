@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Premed Researches | Ammara Talib</title>
+    <link>/premed-research/</link>
+      <atom:link href="/premed-research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Premed Researches</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Premed Researches</title>
+      <link>/premed-research/</link>
+    </image>
+    
+    <item>
+      <title>Optical coherence tomography (OCT) in patients with Parkinson’s Disease (PD)</title>
+      <link>/premed-research/parkinsons_oct/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/premed-research/parkinsons_oct/</guid>
+      <description>&lt;p&gt;Microscopy of Life, Biomedical Engineering 619, Final Project&lt;/p&gt;
+&lt;p&gt;This research project is a review of optical coherence tomography (OCT) as a non-invasive optical interferometric method for Parkinson’s disease diagnosis.
+I am working on this review paper under the guidance of &lt;a href=&#34;https://directory.engr.wisc.edu/bme/faculty/eliceiri_kevin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Eliceiri&lt;/a&gt; in Laboratory for Optical and Computational Instrumentation lab &lt;a href=&#34;https://eliceirilab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LOCI&lt;/a&gt;. I hope to submit my review paper for this research project in Spring 2023.&lt;/p&gt;
+&lt;p&gt;Neurodegenerative movement disorders include Parkinson&amp;rsquo;s disease (PD). Neurodegenerative processes, which affect the brain of PD patients, may also have negative effects on the retina. An optical coherence tomography image can be obtained in a non-invasive, quick, and cost-effective manner using optical interferometry.
+Using this review, we will assess if retinal nerve fiber layer thickness (RNFLT) and retinal thickness (RT) differ between patients with PD and healthy individuals. The majority of reports indicate that RNFLT tends to be thinner in patients with Parkinson&amp;rsquo;s disease, despite different studies providing conflicting results.
+Figures above depict choroid and capillary changes in early-stage Parkinson’s disease.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture11&#34; srcset=&#34;
+               /premed-research/parkinsons_oct/picture11_hud4617a1b817e6b4eac55d1a5e4026dc0_1233396_b619d3f02561b20a05ff11d51e8def32.webp 400w,
+               /premed-research/parkinsons_oct/picture11_hud4617a1b817e6b4eac55d1a5e4026dc0_1233396_7eb5c44345b8fee4e2c6e9b18570a4fa.webp 760w,
+               /premed-research/parkinsons_oct/picture11_hud4617a1b817e6b4eac55d1a5e4026dc0_1233396_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/parkinsons_oct/picture11_hud4617a1b817e6b4eac55d1a5e4026dc0_1233396_b619d3f02561b20a05ff11d51e8def32.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;252&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;According to our review, PD patients had lower RNFLTg, nasal retinal segment (RTn), visual acuity (VA), and intraocular pressure (IOP) scores. It is possible that lower VA scores were caused by the thinning of the RNFLTg and RTn. Thus, future studies should evaluate the reason for lower IOP values in non-glaucomatous IPD patients, and more comprehensive studies should be performed on a larger population.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture1&#34; srcset=&#34;
+               /premed-research/parkinsons_oct/picture1_hucfe1678d45f1287d47cb0434c272825b_336029_7c09dc7002626e9abe98ca18ce03ac66.webp 400w,
+               /premed-research/parkinsons_oct/picture1_hucfe1678d45f1287d47cb0434c272825b_336029_88d3fb6e6d5aef72afa8e4b4f25839fb.webp 760w,
+               /premed-research/parkinsons_oct/picture1_hucfe1678d45f1287d47cb0434c272825b_336029_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/parkinsons_oct/picture1_hucfe1678d45f1287d47cb0434c272825b_336029_7c09dc7002626e9abe98ca18ce03ac66.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;614&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Figures source:&lt;/p&gt;
+&lt;p&gt;Zhang, Y., Yang, L., Gao, Y. et al. Choroid and choriocapillaris changes in early-stage Parkinson’s disease: a swept-source optical coherence tomography angiography-based cross-sectional study. Alz Res Therapy 14, 116 (2022). &lt;a href=&#34;https://doi.org/10.1186/s13195-022-01054-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1186/s13195-022-01054-z&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Isolation and characterization of Exiguobacterium undae from organic lettuce using physiological and sequence approach</title>
+      <link>/premed-research/microbio/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/premed-research/microbio/</guid>
+      <description>&lt;p&gt;Final Project for Microbio 304 Lab:&lt;/p&gt;
+&lt;p&gt;In this project, a bacterium is isolated from an organic lettuce sample and grown in YTG media. Physiological tests such as cellular morphology, glucose/lactose fermentation, motility catalase, oxidase test, tryptophanase test, etc. were used for bacterium identification. Then chromosomal DNA is isolated from the pure culture of our natural isolate, and PCR is used to amplify the 16S rRNA gene. The region is then sequenced and compared to all other known sequences to identify the strain. Based on physiological and molecular characterization, this research hypothesized that the bacterial strain in our natural isolate from the organic lettuce sample is Exiguobacterium undae.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture11&#34; srcset=&#34;
+               /premed-research/microbio/picture11_hub77312606b825a6c8cae1ad3bf61e6b9_1233396_fd914248cc3a04df02f482cfce580992.webp 400w,
+               /premed-research/microbio/picture11_hub77312606b825a6c8cae1ad3bf61e6b9_1233396_d4df463d38f6369d084d67c92b7ffc73.webp 760w,
+               /premed-research/microbio/picture11_hub77312606b825a6c8cae1ad3bf61e6b9_1233396_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/microbio/picture11_hub77312606b825a6c8cae1ad3bf61e6b9_1233396_fd914248cc3a04df02f482cfce580992.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;225&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Fermentation broth indicated a weakly positive result for fermentation of glucose or lactose. In motility media, nature isolate gave a positive test and was motile. Microbial strain is a facultative anaerobe and catalase positive. Nature isolate is rod-shaped and gram-positive. It is positive for starch hydrolysis and negative for enzyme tryptophanase and oxidase.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture1&#34; srcset=&#34;
+               /premed-research/microbio/picture1_hua1289152cebf0dde1b0dd019cc88fa0e_621032_a4be8c7522a334c068e9a0e98fc8e705.webp 400w,
+               /premed-research/microbio/picture1_hua1289152cebf0dde1b0dd019cc88fa0e_621032_752289535862c025f2c8c3e4058e0e10.webp 760w,
+               /premed-research/microbio/picture1_hua1289152cebf0dde1b0dd019cc88fa0e_621032_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/microbio/picture1_hua1289152cebf0dde1b0dd019cc88fa0e_621032_a4be8c7522a334c068e9a0e98fc8e705.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;396&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Agarose gel analysis for DNA electrophoresis showed that the correct single band of 1465 bp is amplified. Exiguobacterium undae is a motile, facultative anaerobe, gram-positive, rod-shaped bacteria based on physiological test. It is oxidase negative and tryptophanase negative, weakly positive for glucose/sugar fermentation, positive for catalase and starch hydrolysis. In addition, 16s rRNA gene DNA sequence using BLAST also identified our nature isolate as Exiguobacterium undae.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review of effect of partial cellular reprogramming on liver plasticity and regeneration</title>
+      <link>/premed-research/liver_regeneration/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/premed-research/liver_regeneration/</guid>
+      <description>&lt;p&gt;Final Project for Genetics 527 Developmental Genetics for Conservation &amp;amp; Regeneration&lt;/p&gt;
+&lt;p&gt;The organ regeneration capacity of some vertebrates, like fish and salamanders, depends on cell differentiation followed by proliferation. The goal of this review is to assess the effect of inducible expression of the four Yamanaka factors 4F specifically in hepatocytes. 4F in vivo expression transiently induced partial reprogramming of adult hepatocytes to a progenitor state and increased cell proliferation.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture1&#34; srcset=&#34;
+               /premed-research/liver_regeneration/picture1_huca1242efb81753b2be8beae181fe981a_621032_19cae499fa0dcc76536b0bd1b8d8ba29.webp 400w,
+               /premed-research/liver_regeneration/picture1_huca1242efb81753b2be8beae181fe981a_621032_f7c078276e71d593f79ca919a6df9977.webp 760w,
+               /premed-research/liver_regeneration/picture1_huca1242efb81753b2be8beae181fe981a_621032_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/liver_regeneration/picture1_huca1242efb81753b2be8beae181fe981a_621032_19cae499fa0dcc76536b0bd1b8d8ba29.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;619&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This effect was indicated by an increase in markers of proliferation, global changes in DNA accessibility and reduced expression of differentiated hepatic-lineage markers. These results show that using partial reprogramming, cellular plasticity can be induced, and liver failure can be counteracted suggesting an avenue for enhancing tissue regeneration.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture2&#34; srcset=&#34;
+               /premed-research/liver_regeneration/picture2_hud05a645f906d0d2cbccee8128702e6a1_1233396_94e26cb570ad3a792ccdc88356f3485c.webp 400w,
+               /premed-research/liver_regeneration/picture2_hud05a645f906d0d2cbccee8128702e6a1_1233396_02c8c8e449c12cdd43828156266ab6c0.webp 760w,
+               /premed-research/liver_regeneration/picture2_hud05a645f906d0d2cbccee8128702e6a1_1233396_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/liver_regeneration/picture2_hud05a645f906d0d2cbccee8128702e6a1_1233396_94e26cb570ad3a792ccdc88356f3485c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;286&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Figure source:&lt;/p&gt;
+&lt;p&gt;Hishida, Tomoaki, Mako Yamamoto, Yuriko Hishida-Nozaki, Changwei Shao, Ling Huang, Chao Wang, Kensaku Shojima et al. &amp;ldquo;In vivo partial cellular reprogramming enhances liver plasticity and regeneration.&amp;rdquo;, no. 4 (2022): 110730.&lt;/p&gt;
+&lt;p&gt;Miller, E. L., Hargreaves, D. C., Kadoch, C., Chang, C. Y., Calarco, J. P., Hodges, C., Buenrostro, J. D., Cui, K., Greenleaf, W. J., Zhao, K., &amp;amp; Crabtree, G. R. (2017). TOP2 synergizes with BAF chromatin remodeling for both resolution and formation of facultative heterochromatin. Nature Structural and Molecular Biology, 24(4). &lt;a href=&#34;https://doi.org/10.1038/nsmb.3384&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/nsmb.3384&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide association study (GWAS) and Candidate Associated study in Uruguay Population to identify common and novel susceptibility loci for type 2 diabetes mellitus (T2D)</title>
+      <link>/premed-research/population-genetics/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/premed-research/population-genetics/</guid>
+      <description>&lt;p&gt;Population Genetics 633: Final Research Proposal for class&lt;/p&gt;
+&lt;p&gt;One of the largest epidemics of the 21st century is type-2 diabetes (T2D), a chronic disease characterized by a decrease in tissue sensitivity to insulin. Uruguay is a unique population for not carrying out genome-wide association study (GWAS) even though they have an increased susceptibility to diabetes and have increased insulin resistance. The specific objective of this research is: 1) to identify common genetic variants underlying the risk of T2D in the Uruguay population using GWAS and 2) to test provisory implicated genes in T2D using a candidate gene association study.&lt;/p&gt;
+&lt;p&gt;For objective one, stage one of the GEWAS approach includes a GWAS scan on alleles with SNP call rate &amp;gt;95% (minor allele frequency &amp;gt;1%) in Uruguay Population with 5,450 cases with T2D 12,550 controls. Then in stage two, replication testing of 20-30 SNPs will be done, followed by sequencing, linkage disequilibrium structure analysis and eQTLs in stage three. Another approach in this study for objective 2 includes a candidate genes association study based on T2D-associated genes from literature (Barroso et al., 2003) using 500 cases and controls. First, SNPs and haplotypes associated with diseases will be identified and tested using a genetic Model showing association with disease in a case-control study. Then we will test SNPs and Haplotypes associated with Disease in QT scenarios of body mass index (BMI), fasting glucose, and fasting insulin.&lt;/p&gt;
+&lt;p&gt;Results of this research proposal can shed light on whether there was heterogeneity of effect between the Uruguay population and other Europeans. We expect some loci to show a consistent direction of effect in the Uruguay population and Europeans and the remaining loci to be associated with T2D at P &amp;lt; 0.05 in only the Uruguay population.&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;p&gt;Borse, S. P., Chhipa, A. S., Sharma, V., Singh, D. P., &amp;amp; Nivsarkar, M. (2021). Management of Type 2 Diabetes: Current Strategies, Unfocussed Aspects, Challenges, and Alternatives. In Medical Principles and Practice (Vol. 30, Issue 2). &lt;a href=&#34;https://doi.org/10.1159/000511002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1159/000511002&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cardiovascular disease (CVD) and Diabetes care disparities among African Americans and Intervention to reduce disparities</title>
+      <link>/premed-research/health_disparaties/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/premed-research/health_disparaties/</guid>
+      <description>&lt;p&gt;Final Project for courses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Health Communication in the Information Age (LSC 617)&lt;/li&gt;
+&lt;li&gt;Communication Arts, Race and Health Communication (COM ARTS 612)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Adults with diabetes are more likely to report a history of cardiovascular disease (CVD) than those without diabetes. African Americans have the highest incidence of diabetes, heart disease, and stroke, tend to be younger at the time of first stroke event, and their strokes tend to be more severe with higher morbidity and result in higher mortality. The causes of health disparities are complex and include societal issues such as institutional racism, discrimination, socioeconomic status, poor access to health care lack of health insurance, poor understanding of the relationship between obesity, diabetes, and CVD among low-income African American communities. In addition, community-level barriers, such as limited access to supermarkets with healthy food items, can lead to unhealthy dietary habits. However, the prevalence of these chronic diseases across racial groups cannot be solely explained by socioeconomic status. Regardless of the ability to speak and understand English, speaking a language other than English at home confers a higher risk for not receiving appropriate health care. Therefore, changes at the policy level for equal access to high-quality care are paramount to reducing health care disparities. Higher morbidity and mortality rates caused by CVD and diabetes can lead to higher care costs in patients and a disproportionate burden on African Americans.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture1&#34; srcset=&#34;
+               /premed-research/health_disparaties/Picture1_hu985862c831708ba909850a3f353787c5_10299365_888e2d583e59ebba9a69257ff3c733b4.webp 400w,
+               /premed-research/health_disparaties/Picture1_hu985862c831708ba909850a3f353787c5_10299365_adeafa4986d85864d4d93ce6cc2e7108.webp 760w,
+               /premed-research/health_disparaties/Picture1_hu985862c831708ba909850a3f353787c5_10299365_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/health_disparaties/Picture1_hu985862c831708ba909850a3f353787c5_10299365_888e2d583e59ebba9a69257ff3c733b4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;252&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Higher morbidity and mortality rates caused by cardiovascular disease (CVD) and diabetes can lead to higher care costs in patients, and a disproportionate burden is on minorities. Therefore, addressing the causes of these disparities and utilizing intervention to control CVD and diabetes in one of the largest minority groups in the US, i.e., African Americans, can potentially decrease healthcare costs.&lt;/p&gt;
+&lt;p&gt;The goal of this study was to assess the causes of diabetes and CVD health disparities among African populations and investigate what intervention are out there to mitigate disparities. These disparities other than SES include patient provider relationship (implicit biases), medical mistrust and community level barriers. Centuries of racial discrimination led to medical mistrust among African Americans and lingering effects persists decades after Tuskegee Syphilis Study.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture2&#34; srcset=&#34;
+               /premed-research/health_disparaties/Picture2_hu1f6f750e0eb1ee4c0fe6101186abb9e3_392021_564b2d4fbb4296cbef8de33f61b6be59.webp 400w,
+               /premed-research/health_disparaties/Picture2_hu1f6f750e0eb1ee4c0fe6101186abb9e3_392021_3b0f4d9713b4bdbf56ab6834867938ff.webp 760w,
+               /premed-research/health_disparaties/Picture2_hu1f6f750e0eb1ee4c0fe6101186abb9e3_392021_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/health_disparaties/Picture2_hu1f6f750e0eb1ee4c0fe6101186abb9e3_392021_564b2d4fbb4296cbef8de33f61b6be59.webp&#34;
+               width=&#34;577&#34;
+               height=&#34;315&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We explored interventions to mitigate these disparities. Those interventions include improving access to care and quality of care. Interventions to eliminate the Black-White disparity in CVD and diabetes control would avert thousands of deaths from CVD in Black Americans. These CVD and diabetes disparities indicate underlying variations in health behavior, medical treatments and need to evaluate causes of these difference and targeted intervention efforts. The health care disparities trends have implications for policy makers, public health practitioners and clinicians to move towards cardiovascular health equity for African Americans. Addressing the causes of these disparities and proposing intervention can decrease health care costs and burden for African Americans.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture3&#34; srcset=&#34;
+               /premed-research/health_disparaties/Picture3_hub46dc4691b857079b878943776bc3e9b_44937_aa87d9042753bc689858884c29e3ad07.webp 400w,
+               /premed-research/health_disparaties/Picture3_hub46dc4691b857079b878943776bc3e9b_44937_a0ab249bd634fdb3d116b628d1656ff2.webp 760w,
+               /premed-research/health_disparaties/Picture3_hub46dc4691b857079b878943776bc3e9b_44937_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/health_disparaties/Picture3_hub46dc4691b857079b878943776bc3e9b_44937_aa87d9042753bc689858884c29e3ad07.webp&#34;
+               width=&#34;357&#34;
+               height=&#34;364&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;References&lt;/p&gt;
+&lt;p&gt;Baumgartner, J., Collins, S., Radley, D., &amp;amp; Hayes, S. (2020). How the Affordable Care Act (ACA) Has Narrowed Racial and Ethnic Disparities in Insurance Coverage and Access to Health Care, 2013‐18. Health Services Research. &lt;a href=&#34;https://doi.org/10.1111/1475-6773.13406&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/1475-6773.13406&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Carnethon, M. R., Pu, J., Howard, G., Albert, M. A., Anderson, C. A. M., Bertoni, A. G., Mujahid, M. S., Palaniappan, L., Taylor, H. A., Willis, M., &amp;amp; Yancy, C. W. (2017). Cardiovascular Health in African Americans: A Scientific Statement From the American Heart Association. In Circulation. &lt;a href=&#34;https://doi.org/10.1161/CIR.0000000000000534&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1161/CIR.0000000000000534&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cefalu, W. T., Dawes, D. E., Gavlak, G., Goldman, D., Herman, W. H., van Nuys, K., Powers, A. C., Taylor, S. I., &amp;amp; Yatvin, A. L. (2018). Insulin access and affordability working group: Conclusions and recommendations. Diabetes Care, 41(6). &lt;a href=&#34;https://doi.org/10.2337/dci18-0019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.2337/dci18-0019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Human Papillomavirus &amp; Cancer</title>
+      <link>/premed-research/cancer_genetics/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/premed-research/cancer_genetics/</guid>
+      <description>&lt;p&gt;Final project for Cancer Genetics 662&lt;/p&gt;
+&lt;p&gt;HPV-11 and HPV-6 are low-risk Human Papillomavirus (HPV) and cause benign anogenital warts that usually do not become cancerous. They have been shown to bind to pRB.
+HPV-16 and HPV-18 are high-risk HPVs. They cause lesions that often result in cervical carcinomas and have been shown to bind to pRB. HPV-16 E6 can bind to p53 but HPV-16 E7 cannot bind to p53. Only E6 proteins of HPV-16 and HPV-18 were binding to human p53 protein. E6 of HPV-16 twice as likely to bind as E6 of HPV-18.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture1&#34; srcset=&#34;
+               /premed-research/cancer_genetics/picture1_hua2ab1979c02265c25abb1d93afe27951_791377_0054b03b8e7aaef5c547624b31902c37.webp 400w,
+               /premed-research/cancer_genetics/picture1_hua2ab1979c02265c25abb1d93afe27951_791377_3b55cc575bb68a6f2b978c60d38ea83c.webp 760w,
+               /premed-research/cancer_genetics/picture1_hua2ab1979c02265c25abb1d93afe27951_791377_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/cancer_genetics/picture1_hua2ab1979c02265c25abb1d93afe27951_791377_0054b03b8e7aaef5c547624b31902c37.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;679&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In cells infected with HPV-16 and HPV-18 , there is no detectable amount of p53 protein. E6 protein may degrade wild-type p53, destroying its functionality as a tumor suppressor.&lt;/p&gt;
+&lt;p&gt;The E6 Oncoprotein Encoded by Human Papillomavirus Type 16 and 18 Promotes the Degradation of p53. Presence of HPV-18 E6 leads to in vitro degradation of p53. Once p53 molecules were targeted, degradation occurred rapidly and completely.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture2&#34; srcset=&#34;
+               /premed-research/cancer_genetics/picture2_hudfa6fad5b7118e97d5241b4495a72bde_361546_f8c49e883d6e90779369bef6e6f2294e.webp 400w,
+               /premed-research/cancer_genetics/picture2_hudfa6fad5b7118e97d5241b4495a72bde_361546_25188b02c7fc1a16164076c1bcbda91a.webp 760w,
+               /premed-research/cancer_genetics/picture2_hudfa6fad5b7118e97d5241b4495a72bde_361546_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/cancer_genetics/picture2_hudfa6fad5b7118e97d5241b4495a72bde_361546_f8c49e883d6e90779369bef6e6f2294e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;513&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;•	Wild-type p53 gene have tumor suppressor properties while the mutated p53 augments transformation.&lt;/p&gt;
+&lt;p&gt;•	The consequence of this interaction between p53 and high-risk HPV oncoprotein would be equivalent to binding and inactivating an intracellular negative growth regulator, which can lead to unrestricted cellular proliferation.&lt;/p&gt;
+&lt;p&gt;•	The mutated p53 gene has been found to be in a high percentage of human colon carcinomas and in human lung cancers.&lt;/p&gt;
+&lt;p&gt;•	The elimination of wild-type p53 would be predicted to provide a growth advantage to those cells expressing E6.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture3&#34; srcset=&#34;
+               /premed-research/cancer_genetics/picture3_hu1dd55f348f56405d9c99684b56537285_342150_732e8264c2037e6b9b76c2275565432d.webp 400w,
+               /premed-research/cancer_genetics/picture3_hu1dd55f348f56405d9c99684b56537285_342150_698dde568f91170ef0b34f669bcd8423.webp 760w,
+               /premed-research/cancer_genetics/picture3_hu1dd55f348f56405d9c99684b56537285_342150_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/cancer_genetics/picture3_hu1dd55f348f56405d9c99684b56537285_342150_732e8264c2037e6b9b76c2275565432d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;512&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Figures source:&lt;/p&gt;
+&lt;p&gt;Werness, B., et al. “Association of Human Papillomavirus Types 16 and 18 E6 Proteins with p53.” Science, vol. 248, no. 4951, 1990, pp. 76–79., doi:10.1126/science.2157286.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of Scoliosis on Pulmonary Functions in Children</title>
+      <link>/premed-research/anat_phy-338-human-anatomy-laboratory/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/premed-research/anat_phy-338-human-anatomy-laboratory/</guid>
+      <description>&lt;p&gt;Final project for Anatomy &amp;amp; Physiology 338 Human Anatomy Laboratory&lt;/p&gt;
+&lt;p&gt;Project Objectives:
+Our review hypothesizes that scoliosis affects the pulmonary function in children. Early spinal fusion from scoliosis also affects lung growth in young children.&lt;/p&gt;
+&lt;p&gt;In patients with scoliosis, forced expiratory volume in one second was only 27 % of normal values. It also diminished maximum inspiratory pressure, caused chest weakness and hypercarbia&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture1&#34; srcset=&#34;
+               /premed-research/anat_phy-338-human-anatomy-laboratory/picture1_hu2e54c57c31f00a2f0a16c288aaa4fd72_166758_5678cc0d8f8378ddc320fa9120b9f295.webp 400w,
+               /premed-research/anat_phy-338-human-anatomy-laboratory/picture1_hu2e54c57c31f00a2f0a16c288aaa4fd72_166758_a3c7ef1d5290ae5c197c23a71d380cd4.webp 760w,
+               /premed-research/anat_phy-338-human-anatomy-laboratory/picture1_hu2e54c57c31f00a2f0a16c288aaa4fd72_166758_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/anat_phy-338-human-anatomy-laboratory/picture1_hu2e54c57c31f00a2f0a16c288aaa4fd72_166758_5678cc0d8f8378ddc320fa9120b9f295.webp&#34;
+               width=&#34;594&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;	Patients with fusions included T1 and T2 had the greatest pulmonary compromise with Force vital capacity (FVC) &amp;lt;50%                               r = 0.62, p &amp;lt; 0.0004).&lt;/p&gt;
+&lt;p&gt;	Patients with the shortest thoracic spinal height (measured from T1 to T12) had the greatest restriction of pulmonary volume                                 r = 0.73, p &amp;lt; 0.001)&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture2&#34; srcset=&#34;
+               /premed-research/anat_phy-338-human-anatomy-laboratory/picture2_hu1e0035a0a045c15db665c67df59d7f25_444668_f1a8a223d9e2c0eb55fd151eceb913b9.webp 400w,
+               /premed-research/anat_phy-338-human-anatomy-laboratory/picture2_hu1e0035a0a045c15db665c67df59d7f25_444668_42b1a34ff05ba5ce496ba51eb4af4540.webp 760w,
+               /premed-research/anat_phy-338-human-anatomy-laboratory/picture2_hu1e0035a0a045c15db665c67df59d7f25_444668_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/premed-research/anat_phy-338-human-anatomy-laboratory/picture2_hu1e0035a0a045c15db665c67df59d7f25_444668_f1a8a223d9e2c0eb55fd151eceb913b9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;736&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In patients with scoliosis:&lt;/p&gt;
+&lt;p&gt;•	forced expiratory volume in one second was only 27 % of normal values&lt;/p&gt;
+&lt;p&gt;•	It also diminished maximum inspiratory pressure&lt;/p&gt;
+&lt;p&gt;•	Caused chest weakness and hypercarbia&lt;/p&gt;
+&lt;p&gt;Figures source:&lt;/p&gt;
+&lt;p&gt;Karol, L. A., Johnston, C., Mladenov, K., Schochet, P., Walters, P., &amp;amp; Browne, R. H. (2008). Pulmonary function following early thoracic fusion in non-neuromuscular scoliosis. Journal of Bone and Joint Surgery, 90(6). &lt;a href=&#34;https://doi.org/10.2106/JBJS.G.00184&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.2106/JBJS.G.00184&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

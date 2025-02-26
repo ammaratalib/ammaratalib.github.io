@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eddy covariance | Ammara Talib</title>
+    <link>/tag/eddy-covariance/</link>
+      <atom:link href="/tag/eddy-covariance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eddy covariance</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Eddy covariance</title>
+      <link>/tag/eddy-covariance/</link>
+    </image>
+    
+    <item>
+      <title>Drivers of decadal carbon fluxes across temperate ecosystems</title>
+      <link>/publications/drivers_of_decadal_carbon-2022/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publications/drivers_of_decadal_carbon-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actual evapotranspiration and crop coefficients for tropical lowland rice (Oryza sativa L.) in eastern India</title>
+      <link>/publications/crop-coefficients-for-lowland-rice-2021/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publications/crop-coefficients-for-lowland-rice-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving parameterization of atmospheric emissivity of a regional model for evapotranspiration estimation</title>
+      <link>/research/wisp/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/research/wisp/</guid>
+      <description>&lt;p&gt;The first chapter of my thesis seeks to improve the parameterization of atmospheric emissivity of a regional irrigation scheduling program for evapotranspiration estimation using eddy covariance measurements. The performance of land surface model-based AET, reanalysis, and remote sensing products varies at different spatio-temporal scales. In the Central Sands Regions of Wisconsin, irrigation agriculture plays a fundamental role in supporting regional agricultural production and rural community development. For irrigation scheduling, farmers often rely on the Wisconsin Irrigation and Scheduling Program (WISP) model, developed by soil scientists at UW-Madison and based on satellite data. WISP is a regional model based on the Priestley Taylor approach and provides Potential ET (PET) estimates that can be scaled to ET based on percent canopy cover.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture1&#34; srcset=&#34;
+               /research/wisp/picture1_huf449459473f3c3a22e0e164a92cef22d_750066_9a0b2a8029f2a789db2d6284525a576e.webp 400w,
+               /research/wisp/picture1_huf449459473f3c3a22e0e164a92cef22d_750066_400bae08cc5a0b6368c19aa9e0f9aa2e.webp 760w,
+               /research/wisp/picture1_huf449459473f3c3a22e0e164a92cef22d_750066_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/research/wisp/picture1_huf449459473f3c3a22e0e164a92cef22d_750066_9a0b2a8029f2a789db2d6284525a576e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;714&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In 2018, with support from the &lt;a href=&#34;https://wisconsinpotatoes.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wisconsin Potato and Vegetable Growers Association&lt;/a&gt; Water Task Force, &lt;a href=&#34;https://dnr.wisconsin.gov/topic/Groundwater/GCC/research.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Wisconsin Department of Natural Resources&lt;/a&gt;, and the UW &lt;a href=&#34;https://ccr.nelson.wisc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Climatic Research&lt;/a&gt;, our lab installed eddy covariance flux towers on a center-pivot irrigated potato field (US-CS1) from June 2018-May 2019, the &lt;a href=&#34;https://www.tricounty.k12.wi.us/district/schoolforest.cfm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tri-County School Forest&lt;/a&gt; pine stand Sept 2018-, a 2nd potato field (US-CS3) from June 2019-June 2020, and a 3rd potato field (US-CS4) from June 2020-present. Links to graphs, tables, and publications are at project website [Water use in Wisconsin Potatoes and Pine] (&lt;a href=&#34;https://flux.aos.wisc.edu/potato&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://flux.aos.wisc.edu/potato&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;This research evaluates sources of bias in the WISP model and develops a correction using eddy covariance (EC) observations. AET observations were made for five years (2018–2022), using EC systems in irrigated potatoes fields in Wisconsin Central Sands (WCS) region. Multi-source ET datasets should be employed in future studies to enhance confidence in remotely sensed ET related water budgets.&lt;/p&gt;
+&lt;p&gt;The source of uncertainty in the model could be due to model inputs of coefficients used in empirical equations. Those coefficients are not regionally calibrated, which could lead to underestimating the energy budget.
+Wisconsin is humid, where ET is energy limited, and by correcting the energy budget, we expect to see reduced bias in model ET.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture12&#34; srcset=&#34;
+               /research/wisp/Picture12_huf449459473f3c3a22e0e164a92cef22d_1675916_8c5d8599399daf0e3a5f187cf464a6ee.webp 400w,
+               /research/wisp/Picture12_huf449459473f3c3a22e0e164a92cef22d_1675916_6c770f5cb6c26049b142e2860a510922.webp 760w,
+               /research/wisp/Picture12_huf449459473f3c3a22e0e164a92cef22d_1675916_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/research/wisp/Picture12_huf449459473f3c3a22e0e164a92cef22d_1675916_8c5d8599399daf0e3a5f187cf464a6ee.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;732&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The WISP model
+overestimated ET before correction because modeled AET range for the WCS region was 7.17-7.48 mm before correction for July 19th, 2020, but after correction modeled
+AET_corr range was 5.59-5.86 mm. Total AET for the entire region for July 19th, 2020, is 569 mm before correction and 444.5 mm after modification, with a difference of 124.5 mm.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture13&#34; srcset=&#34;
+               /research/wisp/Picture13_huf449459473f3c3a22e0e164a92cef22d_901341_534378872235641e950a43da01a9750c.webp 400w,
+               /research/wisp/Picture13_huf449459473f3c3a22e0e164a92cef22d_901341_84785041d6cdf0d46fb89e1eafdf2955.webp 760w,
+               /research/wisp/Picture13_huf449459473f3c3a22e0e164a92cef22d_901341_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/research/wisp/Picture13_huf449459473f3c3a22e0e164a92cef22d_901341_534378872235641e950a43da01a9750c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;423&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;A &lt;a href=&#34;https://doi.org/10.1016/j.agrformet.2024.109967&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;research paper&lt;/a&gt; detailing the findings of this research has been accepted in the journal of Agricultural and Forest Meteorology.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
