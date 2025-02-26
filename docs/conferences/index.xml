@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference Presentations | Ammara Talib</title>
+    <link>/conferences/</link>
+      <atom:link href="/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference Presentations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Conference Presentations</title>
+      <link>/conferences/</link>
+    </image>
+    
+    <item>
+      <title>From half-hour to quarter century- Drivers of carbon fluxes across a northern ecosystem tower cluster</title>
+      <link>/conferences/from-half-hour-to-quarter-century-drivers-of-carbon-fluxes-2021/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/conferences/from-half-hour-to-quarter-century-drivers-of-carbon-fluxes-2021/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;AmeriFlux Annual Meeting 2021&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: Long-running eddy covariance towers help provide the statistically robust insights into how the carbon cycle operates over multiple time-scales, across multiple climate extremes, disturbances, and during longterm trends in atmospheric composition. Long-running eddy covariance towers operating as a cluster provide an even stronger case for evaluating how processes that impact the carbon cycle vary across ecosystem properties, within the same climate and biome. Here, we present a lab initiated project to harmonize and evaluate variation in net ecosystem exchange of carbon dioxide across the Chequamegon Ecosystem-Atmosphere Study (ChEAS) Ameriflux core site cluster in the upper Great Lakes region USA. The tower network includes two mature hardwood forests with differing management regimes (US-WCr and US-Syv), two fen wetlands with varying exposure and vegetation (US-Los and US-ALQ), and a very tall (400 m) landscape level tower (US-PFa) that has been in continuous operation for eddy covariance since 1996. Together, they provide over 70 site-years of observations that can be coupled to climate drivers and remotely-sensed vegetation function. Short-term seasonal to 4-year studies of additional tower clusters in wetlands, forests of differing successional stage, and the 19-tower CHEESEHEAD19 campaign provide additional context on spatial variation. One remarkable consistent finding is the strong role that water, whether in atmosphere (VPD), soil, stream, or water table plays in modulating carbon flux variation, despite a general overall lack of water-limitation in the biome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving irrigation planning and early prediction for agricultural drought in Wisconsin</title>
+      <link>/conferences/improving-irrigation-planning-and-early-prediction-2020/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/conferences/improving-irrigation-planning-and-early-prediction-2020/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2020,&lt;/em&gt; H165-000&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: In our ability to sustain food production, it is important to know how much water our crops use. The risks of climate extremes such as heat waves and droughts are increasing and have already threatened the North American agricultural system in the form of increased drought duration, intensity, and reduced crop yield. Current drought prediction models cover large regions and are not specific to individual farms. The goal of this study is 1) Forecast field-scale short-term evapotranspiration (ET) for different crops in the U.S. Midwest and 2) improve a commonly used satellite-driven regional crop evapotranspiration model (WISP). The first goal is achieved by building a prediction and forecasting empirical model based on machine learning. We compare two approaches, neural networks with Long short-term memory (LSTM) and random forest (RF) applied to nineteen crop sites in a range of crop types, soils, and irrigation usage that have continuous ET measurements made by eddy covariance. In general, performance of RF exceeded LSTM in most cases and forecasts were found to be reliable out to three days. Unlike rainfed crops, we found irrigated crops ET prediction requires including additional information related to physical properties of sites (soil types, crop coefficient, cumulative growing degree days). For the second goal, we evaluated ET predictions from WISP against some of these towers. Overestimation of ET in WISP arises from faulty parameterization of longwave radiation clear-sky emissivity. We applied an inverse approach to estimate corrected clear sky emissivity parameters. ET calculated based on corrected parameters reduced most of the model’s ET bias and lowered RMSE. New field-scale actual ET measurements provide critical insights to improve ET models and hence, enhance drought monitoring and forecasting necessary to be able to use limited water resources efficiently to maintain productivity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How high to fly? Evaluating different elevations for mapping evapotranspiration from remotely piloted aircrafts</title>
+      <link>/conferences/how-high-to-fly-2020/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/conferences/how-high-to-fly-2020/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2020,&lt;/em&gt; H021-06&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: A key challenge for bridging precision irrigation research and application is how best to monitor evapotranspiration (ET) and water stress in real-time. Eddy Covariance towers and lysimeters are vetted methods of monitoring ET and water stress but can lack field-size domains, spatial resolution, and be cost prohibitive. Remotely sensed data offer a potential solution to this problem. However, aerial and satellite imagery have the drawback of spatiotemporal resolution and cloud interference. Recent advancements in remotely piloted aircrafts (RPAs) have made frequent, low-flying optical and thermal imagery collection more economical and feasible than ever before. While low flight elevations improve image resolution and can reduce cloud interference, they require more imagery to cover a field and therefore increase battery usage and post-processing needs. In order to find the optimal RPA flight elevation for irrigation management, the goal of this study is to evaluate the influence of capture elevation on modeled ET values.
+The goal of our project was to evaluate the influence of capture elevation on modeled evapotranspiration values. The optical and thermal data were collected from a commercially irrigated potato field in the Wisconsin Central Sands during the 2019 growing season. A total of eight mission sets were flown. Each mission set was flown using a quadcopter RPA system and combined multispectral/thermal camera. Mission sets included flights at 90, 60, and 30 m above ground level. Ground measurements of surface temperature and soil moisture were collected throughout the domain within 15 minutes of each RPA mission set. ET values were modeled from the flight data using the High-Resolution Mapping of Evapotranspiration (HRMET) model. HRMET-derived ET maps are compared to ET estimates from an Eddy Covariance system within the flight domain. Ongoing results will be used to develop best practices and assess trade-offs for integrating RPAs as decision support tools for irrigation and water management.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Water Use by Crops and Forest and Improving Irrigation Planning and Early Prediction for Agricultural Drought in Wisconsin</title>
+      <link>/conferences/water-use-by-crops-and-forest-and-improving-irrigation-planning-awra2020/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/conferences/water-use-by-crops-and-forest-and-improving-irrigation-planning-awra2020/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Water Resource Association (AWRA) 44th Annual Conference 2020&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: In our ability to sustain food production, it is important to know how much water our crops need. The risks of climate extremes such as heat waves and droughts are increasing and have already threatened the north Central America agricultural system in form of increased drought duration, intensity and reduced crop yield. Agricultural vulnerability can be reduced through advanced monitoring of agricultural water consumptive use and improved drought estimation. The goal, of this research is 1) to calculate the water use efficiency of different potato varieties 2) comparison of water use between potatoes and pines. These goals are achieved by comparing ET and soil moisture data from eddy covariance flux towers and soil moisture sensors installed in irrigated Heartland and pine forest in Tri-county of WI. The data comparison between potatoes and pine ET shows that when there is a big rainfall or irrigation event, the differences between already available ET measurement based on remote sensing models and actual ET measurements are small. However, when soil is dry, ET measurement from Eddy covariance flux tower are more accurate. In addition, the soil moisture and ET comparison provides insight about coupling between soil moisture and ET. New field-scale actual ET measurement will provide deep insights and indicate when plants are under stress and farmers can take actions and use limited water resources efficiently to maintain productivity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving forecasts of crop water demand with direct ET measurements over irrigated fields</title>
+      <link>/conferences/improving-forecasts-of-crop-water-demand-wpvgafeb2019/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/conferences/improving-forecasts-of-crop-water-demand-wpvgafeb2019/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;UW Extension &amp;amp; Wisconsin Potato &amp;amp; Vegetable Growers Association (WPVGA) Grower Conference 2020&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Pines are wetter on the surface. But later the difference between pine and potatoes soil moisture decreases. Pines have more transpiration and less soil evaporation. Deeper in the ground (around 18 inches depth) potatoes have more soil moisture. Water use by different crop types in Midwest (2017,2018) was compared under different soil types. Even same crop type can lead to different water used based on soil condition. Cumulatively corn water loss in Illinois (IL) was about four inches higher than WI potatoes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Field-scale mapping and forecasting of water budgets in intensively irrigated agricultural regions through an advanced ensemble modeling framework</title>
+      <link>/conferences/field-scale-mapping-and-forecasting-of-water-budgets_2019/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/conferences/field-scale-mapping-and-forecasting-of-water-budgets_2019/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2019&lt;/em&gt;, H23C-02&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: In our ability to sustain food production, it is important to know how much water our crops need. Current drought forecasts cover large regions and are not specific to individual farms. Here, we seek to improve forecasting of how crops drought stress changes over time during different stages of growth through advanced mapping and modeling of evapotranspiration (ET) with NASA space borne sensors. We developed an algorithm that can accurately predict and forecast farm-scale regional daily out to 3 days. We use these forecasts to determine what varieties of a crops use less water or what varieties are best performing under water stress conditions. We hypothesized that thermal products from Moderate Resolution Imaging Spectroradiometer (MODIS) and meteorological information provide the resolution and temporal repeat frequency necessary to develop ET products. These goals were accomplished by forecasting water demand (ET loss) by crops with help of ensemble machine learning algorithms with use of meteorological data, MODIS products and ground observation from flux towers. From these products, we developed, calibrated and evaluated a new crop ET product against field measurements of ET from a network of crop eddy covariance flux towers in Midwest USA. These towers are currently operating in irrigated and rain fed field corn, soybean, wheat, clover and potato farms under a range of water management strategies. Daily ET forecast (3 days) model based on random forest (RF) has R2 and RMSE of 0.72 mm and 0.76mm respectively while recurrent neural network (RNN) ensemble forecast model was able to forecast 3 days ET with R2 and RMSE of 0.71 mm and 0.78 mm respectively. New field-scale ET maps can provide deep insights into how farmers could use limited water resources efficiently to maintain productivity, while sustaining surface water resources in the face of climate change.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using remotely piloted aircrafts to evaluate potato water stress in Central Wisconsin</title>
+      <link>/conferences/using-remotely-piloted-aircrafts-to-evaluate-water-stress-2019/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/conferences/using-remotely-piloted-aircrafts-to-evaluate-water-stress-2019/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2019,&lt;/em&gt; H34H-11&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: Groundwater depletion in Central Wisconsin, due in part to agricultural high-capacity wells, has sparked an interest in precision irrigation to reduce groundwater pumping without a significant reduction in yield. A key challenge for bridging precision irrigation research and application is how best to monitor water stress in real-time. Aerial and satellite imagery are potential solutions. Drawbacks of these methods include cost, spatiotemporal resolution, and cloud interference, especially in humid regions. Recent advancements in remotely piloted aircrafts (RPAs) have made frequent, low-flying imagery collection more economical and feasible than ever before. We partnered with the Wisconsin Potato and Vegetable Grower Association to generate high-resolution maps of crop water stress using remotely sensed thermal and multi-spectral RPA imagery. Data were collected at a commercially irrigated potato field in the Central Sands region of Wisconsin from June to August 2019. Missions were flown weekly using a quadcopter RPA system instrumented with a newly released, combined multispectral/thermal camera developed for agricultural applications. Each mission included flights at 30, 60, and 90 m above ground level to assess tradeoffs between resolution, area, and flight time. We used biophysical data from an eddy covariance system installed within the flight domain to validate crop water stress maps generated from the remotely sensed RPA data. Ground measurements of surface temperature and soil moisture were collected throughout the domain within fifteen minutes of each mission. Ongoing results will be used to develop best practices for integrating RPAs into precision irrigation programs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What have we learned from continuous crop and forest evapotranspiration observations in the Central Sands?</title>
+      <link>/conferences/what-have-we-learned-wpvgafeb2020/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/conferences/what-have-we-learned-wpvgafeb2020/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;UW Extension &amp;amp; Wisconsin Potato &amp;amp; Vegetable Growers Association (WPVGA) Grower Conference 2019&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Ways to measure ET:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Meteorological approximations: Thornthwaite, Priestly-Taylor, Penman-Montieth – Strong assumptions on surface properties, ET driven by radiation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Residual: Measure precipitation, soil moisture, runoff, back out ET – Subject to high uncertainty Lysimeters: Labor-intensive, small-area estimate&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Remote sensing:  Assumptions on links between electromagnetic radiation and ET, satellites don’t work with clouds&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Process models: Captures all aspects but requires extensive, hard to measure parameters&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eddy covariance: Direct method, whole field, expensive and expertise required&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Machine “Learning”: Site-specific, hard to extrapolate or interpret, but powerful for forecasting&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficacy of Machine Learning Algorithms for Identifying Hotspots of Groundwater Depletion in Intensively Irrigated Agricultural Regions</title>
+      <link>/conferences/efficacy-of-machine-learning-algorithms-2018/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/conferences/efficacy-of-machine-learning-algorithms-2018/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2018,&lt;/em&gt; H21J-1787&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: The Central Sands region of Wisconsin is one of the most agriculturally productive regions of the United States because of supplemental irrigation with groundwater. About 2,290 high capacity groundwater (GW) wells in shallow sandy and gravel aquifer are being used to irrigate potatoes, sweet corn, peas and bean. These high capacity wells withdraw and pump about 100,000 gallons of water per day and are also draining streams and lakes. Changes in precipitation and temperature has also increased the length of growing season in WCS. Improved understanding of groundwater level response to climate patterns and pumping is essential for sustainable planning and management, particularly in the context of increasing groundwater demands in agriculture. As an alternative to complex and computationally expensive physical models, here we evaluate the reliability of a machine learning based GW model using environmental drivers to GW fluctuation. The objectives were to: 1) develop a new ensemble modeling framework based on artificial neural network nonlinear autoregressive networks to predict spatio-temporal fluctuations of groundwater in WCS, and 2) determine the relative influence of climate variability, evapotranspiration (ET) and crop irrigation demand on GW level change. Precipitation and temperature, streamflow and other climatic indices were chosen as predictors, which make the selected approach easily transferable, since that data is widely available and simple to measure. We trained our model with input data in WCS from 2012-2015 and tested for 2016-2017. Our results show that at least for WCS, our modeling framework can serve as an alternative approach to simulating groundwater level change and water availability, especially in regions where subsurface properties are unknown. An easy to use and rapidly run model also benefits farmers who can identify areas where GW is depleting and thus avoid those regions or grow either non- irrigating crops or crops that recharge GW.Understanding the nonlinear relationship between climate, GW pumping and surface water is also crucial for scientist and conservation professionals, to help protect areas with potential for highest GW depletion. A future application of this work will be to predict crop yield by identifying the important drivers that affect GW level.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pine to Potato Conversion Impacts to Groundwater Recharge in the Northern Great Lakes Region</title>
+      <link>/conferences/groundwater-recharge-in-the-northern-great-lakes-region-2018/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/conferences/groundwater-recharge-in-the-northern-great-lakes-region-2018/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2018,&lt;/em&gt; H11J-1598&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: Minnesota, Wisconsin, and Michigan are experiencing conversion from forests to irrigated potato and vegetable production in coarse soils overlying unconfined aquifers. Groundwater and surface water are strongly connected in these regions, where baseflow often exceeds 80% of streamflow. Watersheds that have already undergone heavy irrigated land use conversion (e.g., Wisconsin Central Sands) currently struggle with surface water loss and ecological degradation. Though it is well understood that forests provide regulatory ecosystem services such as groundwater recharge and nutrient filtration, the spatiotemporal changes to the hydrological budget associated with irrigated land use conversion across the northern Great Lakes states are unclear. Irrigation-induced depletion is a localized and episodic process in this humid region where precipitation exceeds potential evapotranspiration by 200-300 mm yr-1. Irrigated land use conversion may increase or decrease net annual groundwater recharge by 50 mm depending on the methodology (e.g., remote sensing vs. semi-empirical hydrological modeling) and spatial scale used to develop estimates. Policymakers and water managers require more information about how irrigated land use conversion changes the timing and magnitude of net groundwater recharge as well as the interannual variability associated with these changes.
+Our goal is to better understand historical and potential hydrological impacts of pine to potato conversion across the northern Great Lakes region. To this end, we developed and validated mid and late season potato plant functional types for the process-based AgroIBIS-VSF model using lysimetry, eddy covariance, phenological, and physiological data from several sites in Wisconsin and Minnesota. Using AgroIBIS-VSF, we examined how pine and mixed forest conversion to irrigated mid and late season potato agroecosystems altered monthly and annual groundwater recharge between 1979-2016. Preliminary results reveal significant interannual variability in groundwater recharge and potential tradeoffs between groundwater recharge and nutrient filtration ecosystem services. Results of this work will inform both top-down and bottom-up water management and conservation efforts at the farm, watershed, and statewide scales.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Water from ground to sky - New approaches to observing and predicting field to basin scale Evapotranspiration (ET) over crops and plantations</title>
+      <link>/conferences/from_ground_to_sky-wpvga-grower-conference-feb-6th-2018/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/conferences/from_ground_to_sky-wpvga-grower-conference-feb-6th-2018/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;UW Extension &amp;amp; Wisconsin Potato &amp;amp; Vegetable Growers Association (WPVGA) Grower Conference 2018&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;How reliable are fluxtowers?
+As long as sample area is homogenous and uptime is good, eddy covariance is the gold standard for field-regional ET&lt;/p&gt;
+&lt;p&gt;Flux towers have pros/cons:&lt;/p&gt;
+&lt;p&gt;PROS:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy to deploy on a tripod in a field, on solar power&lt;/li&gt;
+&lt;li&gt;No moving parts, and mostly off-the-shelf technology&lt;/li&gt;
+&lt;li&gt;Nearly 500 long running sites worldwide&lt;/li&gt;
+&lt;li&gt;“gold standard”. It is one of the only ways to directly measure ET at hourly time scale&lt;/li&gt;
+&lt;li&gt;At the same time, we also measure the surface heat exchange, carbon dioxide flux (productivity), and climate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CONS:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It is relatively expensive (total around $40-50K to purchase)&lt;/li&gt;
+&lt;li&gt;Requires significant expertise (technical personnel), and regular maintenance.&lt;/li&gt;
+&lt;li&gt;EC measures only upwind of the tower and when the atmosphere is “turbulent”, requiring application of methods to fill in data gaps and quality control data&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Groundwater-Surface water interaction in agricultural watershed that encompasses dense network of High Capacity wells</title>
+      <link>/conferences/groundwater-surface-water-interaction-in-dense-network-of-high-capacity-wells-2017/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/conferences/groundwater-surface-water-interaction-in-dense-network-of-high-capacity-wells-2017/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2017&lt;/em&gt; H34D-06&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: The Central Sands region of Wisconsin is characterized by productive trout streams, lakes, farmland and forest. However,stream channelization, past wetland drainage, and ground water withdrawals have disrupted the hydrology of this CentralSands region. Climatically driven conditions in last decade (2000-2008) alone are unable to account for the severelydepressed water levels. Increased interception and evapotranspiration from afforested areas in central sand Wisconsinmay also be culprit for reduced water recharge. Hence, there is need to study the cumulative effects of changingprecipitation patterns, groundwater withdrawals, and forest evapotranspiration to improve projections of the future of lakelevels and water availability in this region.Here, the SWAT-MODFLOW coupled model approach was applied at large spatio-temporal scale. The coupled model fullyintegrates a watershed model (SWAT) with a groundwater flow model (MODFLOW). Surface water and ground water flowswere simulated integratively at daily time step to estimate the groundwater discharge to the stream network in CentralSands that encompasses high capacity wells. The model was calibrated (2010-2013) and validated (2014-2017) based onstreamflow, groundwater extraction, and water table elevation. As the long-term trends in some of the primary drivers is presently ambiguous in Central Sands under future climate, as isthe case for total precipitation or timing of precipitation, we relied on a sensitivity student to quantitatively access howprimary and secondary drivers may influence future net groundwater recharge. We demonstrate how such an approachcould then be coupled with decision-making models to evaluate the effectiveness of groundwater withdrawal policiesunder a changing climate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Land Use Land Cover Impacts on Water Quantity and Quality in Watershed Systems</title>
+      <link>/conferences/land-use-land-cover-impacts-swc-28july-2014/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/conferences/land-use-land-cover-impacts-swc-28july-2014/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;69th SWCS International Annual Conference- Making Waves in CONSERVATION 2014&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: Changes in land use land cover (LULC) impact watersheds. Changes in rate of interception, evapotranspiration (ET), infiltration, and runoff have impacts on soil loss and nutrient loads into water bodies. Hence, there is a need to evaluate the influences of LULC on watershed systems in order to develop effective conservation policies. This study aims to model these effects using LULC change as a driver of watershed processes. This study is conducted in Sudbury, Assabet and Concord (SuAsCo) watershed in Massachusetts that has high runoff, and water quality impacts from sediments and nutrients loading. A calibrated watershed model (HSPF) is used to simulate water flows and water quality changes and validated using field data. Regional built-out scenarios of LULC changes are used to assess watershed wide impacts. Results indicate that changes in LULC significantly affect water flows and water quality. There is a potential for reducing runoff, sediments and nutrients loads by using conservation strategies such as carefully selected best management practices (BMPs), cost sharing and spatially targeted incentives. This study provides valuable information to watershed managers and landowners for protecting those watershed systems that are undergoing LULC changes like rapid urbanization.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated Assessment of Land Use Land Cover and ClimateChange Impacts on Water Quantity and Quality in SuAsCo Watershed System</title>
+      <link>/conferences/integrated-assessment-of-land-use-climatechange-impacts-30june2014/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/conferences/integrated-assessment-of-land-use-climatechange-impacts-30june2014/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Water Resource Association (AWRA) Summer Specialty Conference on Integrated Water Resources Management (IWRM) - FROM THEORY TO APPLICATION 2014&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: Watershed hydrologic processes and water quality is significantly influenced by changes in land use land cover (LULC) and climate change. Changes in rate of Interception, evapotranspiration (ET), infiltration, and runoff have impacts on soil loss and nutrient loads in watershed. Hence, there is a need to evaluate combined influences of LULC and climate change on watershed system for developing effective conservation policies. This study aims to model these synergistic effects using LULC change and climate change as drivers of watershed system. Study is done in Sudbury, Assabet and Concord (SuAsCo) watershed in Massachusetts that has runoff, and high levels of sediments and nutrients loading issues. A watershed simulation model (HSPF) is used to simulate hydrologic processes and water quality changes and is calibrated and validated using field-measured data. Downscaled regional projections from Global Climate Model (GCM) models and a regional built out scenarios of LULC are used to assess the impacts of projected LULC and climate change. The results indicate that the simultaneous changes in LULC and climate significantly affect the water resources in the SuAsCo river watershed. There is a potential for reducing runoff, sediments and nutrients loads by using conservation strategies such as best management practices (BMPs), cost sharing and incentives. This study provides valuable information to watershed managers and landowners about protecting those watershed systems that are undergoing urbanization and climate impacts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate Change Impacts on Water Quantity and Quality in Watershed Systems</title>
+      <link>/conferences/climate-change-impacts-ucowr-niwr-cuahsi-18june2014/</link>
+      <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/conferences/climate-change-impacts-ucowr-niwr-cuahsi-18june2014/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;UCOWR-NIWR-CUAHSI Conference, Water Systems, Science, and Society Under Global Change 2014&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: Climate change significantly influences watershed hydrologic processes. These changes influence the rate of interception; evapotranspiration (ET), infiltration, and runoff have impact on soil loss and nutrient loads into water bodies. Therefore, assessment of these influences on watershed system to develop comprehensive conservation policies is needed. This study aims to model the impacts using climate change on water quantity and water quality. The research is conducted in Sudbury, Assabet and Concord (SuAsCo) watershed of Massachusetts that is predicted to experience these impacts resulting in runoff issues and water quality impacts, especially increase in sediment and nutrients loading. A watershed simulation model (HSPF) is used to simulate watershed processes. The model is calibrated and validated by using field data from MassDEP. Nash-Sutcliffe equation is used to assess the efficiency of the model. A downscaled prediction of global climate models (GCMs) is used to assess climate change. Results indicate that changes in climate can significantly affect storm water flows and impact water quality both individually and in combination. There is a potential for reducing impacts of runoff, sediments and nutrients loads by using watershed conservation strategies. Climate adaptation strategies could involve implementation of low impact development practices and spatially targeted mitigation measures. Results provide valuable information to watershed managers and landowners for adaptation to climate change impacts.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+C:/Users/ammar/AppData/Local/Temp /tmp ntfs binary,noacl,posix=0,usertemp 1 1
+C:/Users/ammar/scoop/apps/git/2.38.1.windows.1 / ntfs binary,noacl,auto 1 1
+C:/Users/ammar/scoop/apps/git/2.38.1.windows.1/usr/bin /bin ntfs binary,noacl,auto 1 1
+C: /c ntfs binary,noacl,posix=0,user,noumount,auto 1 1

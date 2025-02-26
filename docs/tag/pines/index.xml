@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pines | Ammara Talib</title>
+    <link>/tag/pines/</link>
+      <atom:link href="/tag/pines/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pines</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Pines</title>
+      <link>/tag/pines/</link>
+    </image>
+    
+    <item>
+      <title>Water Use by Crops and Forest and Improving Irrigation Planning and Early Prediction for Agricultural Drought in Wisconsin</title>
+      <link>/conferences/water-use-by-crops-and-forest-and-improving-irrigation-planning-awra2020/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/conferences/water-use-by-crops-and-forest-and-improving-irrigation-planning-awra2020/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Water Resource Association (AWRA) 44th Annual Conference 2020&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: In our ability to sustain food production, it is important to know how much water our crops need. The risks of climate extremes such as heat waves and droughts are increasing and have already threatened the north Central America agricultural system in form of increased drought duration, intensity and reduced crop yield. Agricultural vulnerability can be reduced through advanced monitoring of agricultural water consumptive use and improved drought estimation. The goal, of this research is 1) to calculate the water use efficiency of different potato varieties 2) comparison of water use between potatoes and pines. These goals are achieved by comparing ET and soil moisture data from eddy covariance flux towers and soil moisture sensors installed in irrigated Heartland and pine forest in Tri-county of WI. The data comparison between potatoes and pine ET shows that when there is a big rainfall or irrigation event, the differences between already available ET measurement based on remote sensing models and actual ET measurements are small. However, when soil is dry, ET measurement from Eddy covariance flux tower are more accurate. In addition, the soil moisture and ET comparison provides insight about coupling between soil moisture and ET. New field-scale actual ET measurement will provide deep insights and indicate when plants are under stress and farmers can take actions and use limited water resources efficiently to maintain productivity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

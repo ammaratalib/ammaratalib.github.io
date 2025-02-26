@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eco-hydrology | Ammara Talib</title>
+    <link>/tag/eco-hydrology/</link>
+      <atom:link href="/tag/eco-hydrology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eco-hydrology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Eco-hydrology</title>
+      <link>/tag/eco-hydrology/</link>
+    </image>
+    
+    <item>
+      <title>Groundwater-Surface water interaction in agricultural watershed that encompasses dense network of High Capacity wells</title>
+      <link>/conferences/groundwater-surface-water-interaction-in-dense-network-of-high-capacity-wells-2017/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/conferences/groundwater-surface-water-interaction-in-dense-network-of-high-capacity-wells-2017/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2017&lt;/em&gt; H34D-06&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: The Central Sands region of Wisconsin is characterized by productive trout streams, lakes, farmland and forest. However,stream channelization, past wetland drainage, and ground water withdrawals have disrupted the hydrology of this CentralSands region. Climatically driven conditions in last decade (2000-2008) alone are unable to account for the severelydepressed water levels. Increased interception and evapotranspiration from afforested areas in central sand Wisconsinmay also be culprit for reduced water recharge. Hence, there is need to study the cumulative effects of changingprecipitation patterns, groundwater withdrawals, and forest evapotranspiration to improve projections of the future of lakelevels and water availability in this region.Here, the SWAT-MODFLOW coupled model approach was applied at large spatio-temporal scale. The coupled model fullyintegrates a watershed model (SWAT) with a groundwater flow model (MODFLOW). Surface water and ground water flowswere simulated integratively at daily time step to estimate the groundwater discharge to the stream network in CentralSands that encompasses high capacity wells. The model was calibrated (2010-2013) and validated (2014-2017) based onstreamflow, groundwater extraction, and water table elevation. As the long-term trends in some of the primary drivers is presently ambiguous in Central Sands under future climate, as isthe case for total precipitation or timing of precipitation, we relied on a sensitivity student to quantitatively access howprimary and secondary drivers may influence future net groundwater recharge. We demonstrate how such an approachcould then be coupled with decision-making models to evaluate the effectiveness of groundwater withdrawal policiesunder a changing climate.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

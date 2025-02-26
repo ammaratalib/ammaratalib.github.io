@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sediments | Ammara Talib</title>
+    <link>/tag/sediments/</link>
+      <atom:link href="/tag/sediments/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sediments</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Sediments</title>
+      <link>/tag/sediments/</link>
+    </image>
+    
+    <item>
+      <title>Land Use Land Cover Impacts on Water Quantity and Quality in Watershed Systems</title>
+      <link>/conferences/land-use-land-cover-impacts-swc-28july-2014/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/conferences/land-use-land-cover-impacts-swc-28july-2014/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;69th SWCS International Annual Conference- Making Waves in CONSERVATION 2014&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: Changes in land use land cover (LULC) impact watersheds. Changes in rate of interception, evapotranspiration (ET), infiltration, and runoff have impacts on soil loss and nutrient loads into water bodies. Hence, there is a need to evaluate the influences of LULC on watershed systems in order to develop effective conservation policies. This study aims to model these effects using LULC change as a driver of watershed processes. This study is conducted in Sudbury, Assabet and Concord (SuAsCo) watershed in Massachusetts that has high runoff, and water quality impacts from sediments and nutrients loading. A calibrated watershed model (HSPF) is used to simulate water flows and water quality changes and validated using field data. Regional built-out scenarios of LULC changes are used to assess watershed wide impacts. Results indicate that changes in LULC significantly affect water flows and water quality. There is a potential for reducing runoff, sediments and nutrients loads by using conservation strategies such as carefully selected best management practices (BMPs), cost sharing and spatially targeted incentives. This study provides valuable information to watershed managers and landowners for protecting those watershed systems that are undergoing LULC changes like rapid urbanization.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated Assessment of Land Use Land Cover and ClimateChange Impacts on Water Quantity and Quality in SuAsCo Watershed System</title>
+      <link>/conferences/integrated-assessment-of-land-use-climatechange-impacts-30june2014/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/conferences/integrated-assessment-of-land-use-climatechange-impacts-30june2014/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Water Resource Association (AWRA) Summer Specialty Conference on Integrated Water Resources Management (IWRM) - FROM THEORY TO APPLICATION 2014&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: Watershed hydrologic processes and water quality is significantly influenced by changes in land use land cover (LULC) and climate change. Changes in rate of Interception, evapotranspiration (ET), infiltration, and runoff have impacts on soil loss and nutrient loads in watershed. Hence, there is a need to evaluate combined influences of LULC and climate change on watershed system for developing effective conservation policies. This study aims to model these synergistic effects using LULC change and climate change as drivers of watershed system. Study is done in Sudbury, Assabet and Concord (SuAsCo) watershed in Massachusetts that has runoff, and high levels of sediments and nutrients loading issues. A watershed simulation model (HSPF) is used to simulate hydrologic processes and water quality changes and is calibrated and validated using field-measured data. Downscaled regional projections from Global Climate Model (GCM) models and a regional built out scenarios of LULC are used to assess the impacts of projected LULC and climate change. The results indicate that the simultaneous changes in LULC and climate significantly affect the water resources in the SuAsCo river watershed. There is a potential for reducing runoff, sediments and nutrients loads by using conservation strategies such as best management practices (BMPs), cost sharing and incentives. This study provides valuable information to watershed managers and landowners about protecting those watershed systems that are undergoing urbanization and climate impacts.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

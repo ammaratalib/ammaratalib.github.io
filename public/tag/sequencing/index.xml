@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sequencing | Ammara Talib</title>
+    <link>/tag/sequencing/</link>
+      <atom:link href="/tag/sequencing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sequencing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Sequencing</title>
+      <link>/tag/sequencing/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide association study (GWAS) and Candidate Associated study in Uruguay Population to identify common and novel susceptibility loci for type 2 diabetes mellitus (T2D)</title>
+      <link>/premed-research/population-genetics/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/premed-research/population-genetics/</guid>
+      <description>&lt;p&gt;Population Genetics 633: Final Research Proposal for class&lt;/p&gt;
+&lt;p&gt;One of the largest epidemics of the 21st century is type-2 diabetes (T2D), a chronic disease characterized by a decrease in tissue sensitivity to insulin. Uruguay is a unique population for not carrying out genome-wide association study (GWAS) even though they have an increased susceptibility to diabetes and have increased insulin resistance. The specific objective of this research is: 1) to identify common genetic variants underlying the risk of T2D in the Uruguay population using GWAS and 2) to test provisory implicated genes in T2D using a candidate gene association study.&lt;/p&gt;
+&lt;p&gt;For objective one, stage one of the GEWAS approach includes a GWAS scan on alleles with SNP call rate &amp;gt;95% (minor allele frequency &amp;gt;1%) in Uruguay Population with 5,450 cases with T2D 12,550 controls. Then in stage two, replication testing of 20-30 SNPs will be done, followed by sequencing, linkage disequilibrium structure analysis and eQTLs in stage three. Another approach in this study for objective 2 includes a candidate genes association study based on T2D-associated genes from literature (Barroso et al., 2003) using 500 cases and controls. First, SNPs and haplotypes associated with diseases will be identified and tested using a genetic Model showing association with disease in a case-control study. Then we will test SNPs and Haplotypes associated with Disease in QT scenarios of body mass index (BMI), fasting glucose, and fasting insulin.&lt;/p&gt;
+&lt;p&gt;Results of this research proposal can shed light on whether there was heterogeneity of effect between the Uruguay population and other Europeans. We expect some loci to show a consistent direction of effect in the Uruguay population and Europeans and the remaining loci to be associated with T2D at P &amp;lt; 0.05 in only the Uruguay population.&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;p&gt;Borse, S. P., Chhipa, A. S., Sharma, V., Singh, D. P., &amp;amp; Nivsarkar, M. (2021). Management of Type 2 Diabetes: Current Strategies, Unfocussed Aspects, Challenges, and Alternatives. In Medical Principles and Practice (Vol. 30, Issue 2). &lt;a href=&#34;https://doi.org/10.1159/000511002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1159/000511002&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Informatics | Ammara Talib</title>
+    <link>/tag/informatics/</link>
+      <atom:link href="/tag/informatics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Informatics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Informatics</title>
+      <link>/tag/informatics/</link>
+    </image>
+    
+    <item>
+      <title>Improving irrigation planning and early prediction for agricultural drought in Wisconsin</title>
+      <link>/conferences/improving-irrigation-planning-and-early-prediction-2020/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/conferences/improving-irrigation-planning-and-early-prediction-2020/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2020,&lt;/em&gt; H165-000&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: In our ability to sustain food production, it is important to know how much water our crops use. The risks of climate extremes such as heat waves and droughts are increasing and have already threatened the North American agricultural system in the form of increased drought duration, intensity, and reduced crop yield. Current drought prediction models cover large regions and are not specific to individual farms. The goal of this study is 1) Forecast field-scale short-term evapotranspiration (ET) for different crops in the U.S. Midwest and 2) improve a commonly used satellite-driven regional crop evapotranspiration model (WISP). The first goal is achieved by building a prediction and forecasting empirical model based on machine learning. We compare two approaches, neural networks with Long short-term memory (LSTM) and random forest (RF) applied to nineteen crop sites in a range of crop types, soils, and irrigation usage that have continuous ET measurements made by eddy covariance. In general, performance of RF exceeded LSTM in most cases and forecasts were found to be reliable out to three days. Unlike rainfed crops, we found irrigated crops ET prediction requires including additional information related to physical properties of sites (soil types, crop coefficient, cumulative growing degree days). For the second goal, we evaluated ET predictions from WISP against some of these towers. Overestimation of ET in WISP arises from faulty parameterization of longwave radiation clear-sky emissivity. We applied an inverse approach to estimate corrected clear sky emissivity parameters. ET calculated based on corrected parameters reduced most of the model’s ET bias and lowered RMSE. New field-scale actual ET measurements provide critical insights to improve ET models and hence, enhance drought monitoring and forecasting necessary to be able to use limited water resources efficiently to maintain productivity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficacy of Machine Learning Algorithms for Identifying Hotspots of Groundwater Depletion in Intensively Irrigated Agricultural Regions</title>
+      <link>/conferences/efficacy-of-machine-learning-algorithms-2018/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/conferences/efficacy-of-machine-learning-algorithms-2018/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, Fall Meeting 2018,&lt;/em&gt; H21J-1787&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Abstract: The Central Sands region of Wisconsin is one of the most agriculturally productive regions of the United States because of supplemental irrigation with groundwater. About 2,290 high capacity groundwater (GW) wells in shallow sandy and gravel aquifer are being used to irrigate potatoes, sweet corn, peas and bean. These high capacity wells withdraw and pump about 100,000 gallons of water per day and are also draining streams and lakes. Changes in precipitation and temperature has also increased the length of growing season in WCS. Improved understanding of groundwater level response to climate patterns and pumping is essential for sustainable planning and management, particularly in the context of increasing groundwater demands in agriculture. As an alternative to complex and computationally expensive physical models, here we evaluate the reliability of a machine learning based GW model using environmental drivers to GW fluctuation. The objectives were to: 1) develop a new ensemble modeling framework based on artificial neural network nonlinear autoregressive networks to predict spatio-temporal fluctuations of groundwater in WCS, and 2) determine the relative influence of climate variability, evapotranspiration (ET) and crop irrigation demand on GW level change. Precipitation and temperature, streamflow and other climatic indices were chosen as predictors, which make the selected approach easily transferable, since that data is widely available and simple to measure. We trained our model with input data in WCS from 2012-2015 and tested for 2016-2017. Our results show that at least for WCS, our modeling framework can serve as an alternative approach to simulating groundwater level change and water availability, especially in regions where subsurface properties are unknown. An easy to use and rapidly run model also benefits farmers who can identify areas where GW is depleting and thus avoid those regions or grow either non- irrigating crops or crops that recharge GW.Understanding the nonlinear relationship between climate, GW pumping and surface water is also crucial for scientist and conservation professionals, to help protect areas with potential for highest GW depletion. A future application of this work will be to predict crop yield by identifying the important drivers that affect GW level.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

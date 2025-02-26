@@ -1,0 +1,4 @@
+0 0 58448:20768 / /tmp binary,noacl,posix=0,usertemp - ntfs C:/Users/ammar/AppData/Local/Temp rw
+1 1 58448:20768 / / binary,noacl,auto - ntfs C:/Users/ammar/scoop/apps/git/2.38.1.windows.1 rw
+2 2 58448:20768 / /bin binary,noacl,auto - ntfs C:/Users/ammar/scoop/apps/git/2.38.1.windows.1/usr/bin rw
+3 3 58448:20768 / /c binary,noacl,posix=0,user,noumount,auto - ntfs C: rw
