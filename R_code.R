@@ -5,7 +5,8 @@
 library(blogdown)
 library(usethis)
 library(devtools)
-
+# public folder is important for github website 
+#remove proc in public if size is big or formatting is off 
 #blogdown::install_hugo()
 # if cant see the screen, use the code below
 blogdown::serve_site()
