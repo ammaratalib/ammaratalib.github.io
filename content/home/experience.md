@@ -22,13 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Postdoctoral Fellow
+    company: Yale University
+    company_url: ''
+    #company_logo: org-gc
+    location: Cambridge, MA
+    date_start: '2023-10-01'
+    date_end:   ''
+    description: |2-
+        Quantifying the effect of salinity on water use efficiency and carbon use efficiency in coastal ecosystem across the USA 
+
+  - title: Postdoctoral Fellow
+    company: Harvard University
+    company_url: ''
+    #company_logo: org-gc
+    location: Cambridge, MA
+    date_start: '2023-09-01'
+    date_end:   '2024-09-15'
+    description: |2-
+        * Analysis of temporal and spatial variability in precipitation and streamflow to evaluate the impacts of climate change on eastern USA Forests. 
+        * Quantify the role of ecosystem disturbance and succession on vegetation-climate and water coupling.
+
   - title: Teaching Assistant
     company: University of Wisconsin Madison
     company_url: ''
     #company_logo: org-gc
     location: Biology 151/152 – Introductory Biology Lab
-    date_start: '2018-01-01'
-    date_end:   ''
+    date_start: '2019-01-01'
+    date_end:   '2023-05-15'
     description: |2-
         Responsibilities include:
         
@@ -42,7 +64,7 @@ experience:
     #company_logo: org-x
     location: Ecometeorology Lab - Center for Climate Research
     date_start: '2018-01-01'
-    date_end: ''
+    date_end: '2023-08-28'
     description: |2-
         Developing regional hydrologic prediction and forecast models to evaluate the role of drought and water withdrawals on regional water use in regions such as the Central Sands, WI.
 
