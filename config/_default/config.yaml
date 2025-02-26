@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 #title: Academic # Website name
 #baseURL: 'https://example.com/' # Website URL
-
+publishDir : "docs"
 title: Ammara Talib # Website name
 baseURL: "/" # Website URL
 
