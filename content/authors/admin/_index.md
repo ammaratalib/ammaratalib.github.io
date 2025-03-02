@@ -8,13 +8,13 @@ education:
  #   institution: Yale University 
   #  year: 2024
 
-  #- course: Postdoctoral Fellowship
-   # institution: Harvard University
+  - course: Postdoctoral Fellowship
+    institution: Harvard University
     #year: 2023
     
   - course: PhD in Civil & Environmental Engineering
     institution: University of Wisconsin Madison
-    year: 2023
+    #year: 2023
 
   - course: Fulbright Scholar
     institution: University Massachusetts Amherst 

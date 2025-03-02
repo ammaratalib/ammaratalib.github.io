@@ -20,6 +20,16 @@ feature:
     #icon: r-project
     #icon_pack: fab
     name: Statistics
+    
+  - description: ''
+    #icon: r-project
+    #icon_pack: fab
+    name: Artificial Intelligence
+    
+  - description: ''
+    #icon: r-project
+    #icon_pack: fab
+    name: Data Science
 
   - description: ''
     #icon: r-project
