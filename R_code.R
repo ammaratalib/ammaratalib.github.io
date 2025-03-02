@@ -12,17 +12,23 @@ library(devtools)
 blogdown::serve_site()
 blogdown::build_site() # use this to make changs in public
 
-servr::daemon_stop(1)
+#servr::daemon_stop(1)
 
 blogdown::stop_server() # if error use line below
 
 .rs.restartR()
+
 # change clinical experience here
 #C:\website\content\home
 # http://localhost:4321
 
-blogdown::build_site() # use this to make changs in public
+blogdown::build_site() 
+
+# use this to make changs in public
 #config.toml  will be config.yaml
+# if changes are not updated then check config.yaml and add. publishDir : "docs"
+# publishDir : "docs" should not be equal to public. you want docs to updated to see changes in github
+# another place i made a change was in nutifly where I change public to doc. see if I need to go back for some reason 
 
 # path for bio 
 #C:\Users\ammar\Dropbox\sreenath_MD_version\website

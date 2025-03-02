@@ -11,25 +11,33 @@ main:
   - name: Research
     url: 'research'
     weight: 20
+    
   - name: Publications
     url: 'publications'
  # - name: Conference Presentations
     #url: 'Conferences'
     weight: 30
+    
+  - name: Awards
+    url: '#accomplishments'
+    weight: 40
+    
   - name: Clinical Experience
     url: '#Clinical Experience'
-    weight: 40
-  - name: Fellowships
-    url: '#accomplishments'
     weight: 50
-    
     #weight: 50
+    
+  - name: Community Service
+    url: '#Clinical Experience'
+    weight: 60
+    #weight: 50
+
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: files/cv.pdf
-    weight: 70
+    weight: 80

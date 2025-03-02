@@ -5,12 +5,31 @@
     <link>/tag/floods/</link>
       <atom:link href="/tag/floods/index.xml" rel="self" type="application/rss+xml" />
     <description>Floods</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Floods</title>
       <link>/tag/floods/</link>
     </image>
+    
+    <item>
+      <title>Examining Interactions of Disturbance, and Water Cycling in the Eastern US with Ecosystem-Atmosphere Observations and Models</title>
+      <link>/conferences/harvard_forest_2024/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/conferences/harvard_forest_2024/</guid>
+      <description>&lt;p&gt;Conference: &amp;lsquo;&lt;em&gt;American Geophysical Union, WaterSciCon24&lt;/em&gt;&amp;rsquo;&lt;/p&gt;
+&lt;div style=&#34;text-align: justify;&#34;&gt;
+Abstract: Given the climate crisis and the rapid global loss of biodiversity, it is essential to examine how climate change affects various aspects of forests and the water cycle. In the eastern United States, water dynamics in forest ecosystems have been notably influenced by moderate to severe forest disturbances over the past few decades. Alterations in canopy structure and complexity introduce significant uncertainty in predicting hydrological responses, particularly concerning evapotranspiration (ET) dynamics and streamflow patterns. This study seeks to investigate the interactions between forest disturbance, climate change, and ET in shaping the water cycle in the eastern US, where local water supply systems heavily rely on surface water regeneration. The objectives of this study are to quantify the short-term and long-term changes in ET, and develop a data-driven ET model by integrating long-term ecological and atmospheric observations to identify key drivers. We propose creating a data-driven ET model specific to the eastern US, incorporating long-term ecological and atmospheric data, and validating the results using eddy covariance ecosystem-atmosphere flux observations. Micrometeorological measurements from long-term weather stations and flux towers will be employed to estimate the water budget. This research aims to identify the key drivers of ET and streamflow anomalies in the eastern US and model regional responses. Additionally, this study will explore the role of physical and biological drivers on ET and streamflow dynamics in forest ecosystems and the impact of changing ET dynamics on the regional climate system.
+</description>
+    </item>
+    
+    <item>
+      <title>Long-term effects of land-use change on water resources in urbanizing watersheds</title>
+      <link>/publications/landuse_change_2023/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publications/landuse_change_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Groundwater-Surface water interaction in agricultural watershed that encompasses dense network of High Capacity wells</title>

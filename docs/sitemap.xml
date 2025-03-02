@@ -10,6 +10,78 @@
     <lastmod>2025-02-23T11:31:36-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/conferences/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/disturbance/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/conferences/harvard_forest_2024/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/floods/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/gross-primary-productivity/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/insects/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/machine-learning-models/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/water-management/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/drivers/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/groundwater-anomalies/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/irrigation-pumping/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/land-use-change/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publications/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publications/ground_water_2024/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/tag/canopy-conductance/</loc>
     <lastmod>2023-12-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,12 +102,48 @@
     <lastmod>2023-12-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+    <loc>/tag/actual-evapotranspiration/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+    <loc>/tag/eddy-covariance/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/emissivity/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publications/wisp-2023/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/longwave-radiation/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/percentage-bias/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/eutrophication/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/landuse-change/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publications/landuse_change_2023/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/total-nitrogen/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/total-phosphorus/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/ameriflux/</loc>
@@ -54,19 +162,7 @@
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/eddy-covariance/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/tag/forests/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/publications/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -282,10 +378,6 @@
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/conferences/</loc>
-    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/tag/data-mining/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -387,10 +479,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/forecasting/</loc>
-    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tag/machine-learning/</loc>
     <lastmod>2021-06-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -498,23 +586,11 @@
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/actual-evapotranspiration/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/tag/bias/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/emissivity/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/research/wisp/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tag/longwave-radiation/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -674,15 +750,7 @@
     <lastmod>2017-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/floods/</loc>
-    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/conferences/groundwater-surface-water-interaction-in-dense-network-of-high-capacity-wells-2017/</loc>
-    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tag/water-management/</loc>
     <lastmod>2017-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -747,10 +815,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/hspf-model/</loc>
-    <lastmod>2014-07-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tag/land-use-change/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

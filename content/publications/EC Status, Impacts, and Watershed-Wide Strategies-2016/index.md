@@ -26,7 +26,7 @@ tags:
 title: Managing Emerging Contaminants- Status, Impacts, and Watershed-Wide Strategies
 url_code: ""
 url_dataset: ""
-url_pdf: "https://link.springer.com/content/pdf/10.1007/s12403-015-0192-4.pdf"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S221261391630023X?via%3Dihub"
 url_poster: ""
 url_project: ""
 #url_slides: "https://drive.google.com/file/d/1EBhFqQHLVsmkfEHQ-yfFA2xZRrGaih_c/view?usp=sharing"

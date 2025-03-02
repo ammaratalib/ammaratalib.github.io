@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Clinical Experience
 subtitle:
@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Patient Care Volunteer in MA
+  - title: Patient Care Volunteer 
     company: 'Yale Haven Free clinic'
     company_url: ''
     #company_logo: org-gc

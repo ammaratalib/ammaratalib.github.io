@@ -5,12 +5,20 @@
     <link>/tag/land-use-change/</link>
       <atom:link href="/tag/land-use-change/index.xml" rel="self" type="application/rss+xml" />
     <description>Land use change</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Land use change</title>
       <link>/tag/land-use-change/</link>
     </image>
+    
+    <item>
+      <title>Spatial and temporal forecasting of groundwater anomalies in complex aquifer undergoing climate and land use change</title>
+      <link>/publications/ground_water_2024/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/publications/ground_water_2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Land Use Land Cover Impacts on Water Quantity and Quality in Watershed Systems</title>

@@ -25,18 +25,18 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: talib@wisc.edu
+  email: ammara.talib@yale.edu
   #phone: 888 888 88 88
   address:
-    street: Engineering Hall, 1415 Engineering Dr, Madison 
-    city: Madison
-    region: WI
-    postcode: '53706'
+    street: 195 Prospect Street
+    city: New Haven
+    region: CT
+    postcode: '06511'
     country: United States
     country_code: US
   coordinates:
-    latitude: '43.0722'
-    longitude: '-89.4008'
+    latitude: '41.31'
+    longitude: '-72.92'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #office_hours:
    # - 'Monday 10:00 to 13:00'

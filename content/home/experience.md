@@ -28,7 +28,7 @@ experience:
     company_url: ''
     #company_logo: org-gc
     location: Cambridge, MA
-    date_start: '2023-10-01'
+    date_start: '2024-10-01'
     date_end:   ''
     description: |2-
         Quantifying the effect of salinity on water use efficiency and carbon use efficiency in coastal ecosystem across the USA 

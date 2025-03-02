@@ -4,13 +4,13 @@ bio: My research interests include using machine learning and statistical modeli
 education:
   courses:
   
-  - course: Postdoctoral Fellowship
-    institution: Yale University 
-    year: 2024
+ #  - course: Postdoctoral Fellowship
+ #   institution: Yale University 
+  #  year: 2024
 
-  - course: Postdoctoral Fellowship
-    institution: Harvard University
-    year: 2023
+  #- course: Postdoctoral Fellowship
+   # institution: Harvard University
+    #year: 2023
     
   - course: PhD in Civil & Environmental Engineering
     institution: University of Wisconsin Madison
@@ -39,7 +39,7 @@ social:
   link: /#contact
 - display:
     header: true
-#- icon: graduation-cap
+- icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=eLpjKBMAAAAJ&hl=en
 - icon: github

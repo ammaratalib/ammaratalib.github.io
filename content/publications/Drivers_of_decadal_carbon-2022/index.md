@@ -16,7 +16,7 @@ authors:
 - James Mineau
 - and Paul Christopher Stoy
 date: "2022-11-22T00:00:00Z"
-doi: "https://doi.org/10.1002/essoar.10511485.1"
+doi: " https://doi.org/10.1029/2022JG007014"
 featured: false
 image:
   caption: #'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'#
@@ -40,10 +40,10 @@ tags:
 title: Drivers of decadal carbon fluxes across temperate ecosystems
 url_code: ""
 url_dataset: ""
-url_pdf: "https://d197for5662m48.cloudfront.net/documents/publicationstatus/99723/preprint_pdf/e5df4869a42bc38d5178d1efb3e67603.pdf"
+url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022JG007014"
 url_poster: ""
 url_project: ""
-url_slides: "https://drive.google.com/file/d/1EBhFqQHLVsmkfEHQ-yfFA2xZRrGaih_c/view?usp=sharing"
+#url_slides: "https://drive.google.com/file/d/1EBhFqQHLVsmkfEHQ-yfFA2xZRrGaih_c/view?usp=sharing"
 url_source: ""
 url_video: ""
 ---

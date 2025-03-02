@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2024-11-15'
     description: ''
-    organization: Yale School of Environment
+    organization: International Conference on Sustainable Agriculture and Food Systems
     #International Conference on Sustainable Agriculture and Food Systems
     #organization_url: https://www.coursera.org
     title: Water Resource Women Research Award                                                                         
